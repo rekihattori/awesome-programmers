@@ -4,13 +4,13 @@ a list of the best engineers in the world
 
 ## Table of Contents
 
-- *Database*
-- *Tools*
-- *Programming Languages*
-- *Algorithms*
-- *Protocols*
-- *Competitions*
-- *Writers*
+- **Database**
+- **Tools**
+- **Programming Languages**
+- **Algorithms**
+- **Protocols**
+- **Competitions**
+- **Writers**
 
 ## Databases
 
