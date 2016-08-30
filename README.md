@@ -9,7 +9,9 @@ a list of the best engineers in the world
 - **Programming Languages**
 - **Artificial Intelligence**
 - **Algorithms**
-- **Protocols**
+- **System Architectures**
+- **Computational Theory**
+- **Computer Networking**
 - **Competitions**
 - **Writers**
 
@@ -34,14 +36,16 @@ a list of the best engineers in the world
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 
-## Networking
+## System Architectures
+
+## Computational Theory
+
+## Computer Networking
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
 
-## Compilers
+## Programming Languages
 
 ## Algorithms
-
-## Protocols
 
 ## Competitions
 
