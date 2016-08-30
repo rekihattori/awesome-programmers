@@ -20,7 +20,7 @@ a list of the best engineers in the world
 - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the relational database
 - [Charles W. Bachman](https://en.wikipedia.org/wiki/Charles_Bachman): The designer of Integrated Data Store
 - [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker): The creator of Ingres and Postgres database
-- 
+- [Avinash Lakshman](https://www.linkedin.com/in/avinashlakshman): The co-creator of Dynamo and creator of Cassandra
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
