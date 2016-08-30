@@ -4,9 +4,10 @@ a list of the best engineers in the world
 
 ## Table of Contents
 
-- **Database**
+- **Databases**
 - **Tools**
 - **Programming Languages**
+- **Artificial Intelligence**
 - **Algorithms**
 - **Protocols**
 - **Competitions**
@@ -27,6 +28,8 @@ a list of the best engineers in the world
 - [Andreas Reuter](https://en.wikipedia.org/wiki/Andreas_Reuter): The co-designer of definitions for ACID transactions
 - [Theo Härder](https://en.wikipedia.org/wiki/Theo_H%C3%A4rder): The co-designer of definitions for ACID transactions
 - [Phil Bernstein](https://www.microsoft.com/en-us/research/people/philbe/): The creator of concurrency control over distributed network
+
+## Artificial Intelligence
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
