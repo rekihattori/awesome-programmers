@@ -21,7 +21,7 @@ a list of the best engineers in the world
 - [Raymond F. Boyce](https://en.wikipedia.org/wiki/Raymond_F._Boyce): The co-creator of SQL
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-author of BigTable, MapReduce and Spanner
 - [Sanjay Ghemawat](http://research.google.com/pubs/SanjayGhemawat.html): The co-author of BigTable, MapReduce and Spanner
-- [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the relational database
+- [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the relational database and helped create System R
 - [Charles W. Bachman](https://en.wikipedia.org/wiki/Charles_Bachman): The designer of Integrated Data Store
 - [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker): The creator of Ingres and Postgres database
 - [Avinash Lakshman](https://www.linkedin.com/in/avinashlakshman): The co-creator of Dynamo and creator of Cassandra
