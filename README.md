@@ -34,7 +34,7 @@ a list of the best engineers in the world
 ## Algorithms
 
 ### Artificial Intelligence
-
+- [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
