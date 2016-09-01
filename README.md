@@ -35,13 +35,18 @@ a list of the best engineers in the world
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
+- [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky): Helped establish the principle concepts of artificial intelligence and co-founder of the Massachusetts Institute of Technology's AI laboratory
+- [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): One of the founders for the discipline of artificial intelligence and coined the term "artificial intelligence".
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 
 ## System Architectures
+- [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of time-sharing for computers with multiprogramming.
 
 ## Computational Theory
+- [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming): Defined numerical methods, automatic coding systems, and error-detecting and error-correcting codes
+- [James H. Wilkinson](https://en.wikipedia.org/wiki/James_H._Wilkinson): Helped facilitate the use of the high-speed digital computer with numerical analysis developer of the "backward" error analysis.
 
 ## Computer Networking
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
@@ -49,7 +54,7 @@ a list of the best engineers in the world
 ## Programming Languages
 - [Alan J. Perlis](http://history.computer.org/pioneers/perlis.html): Helped standardize education of computer science and programming language design
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
-
+- [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
 
 
 ## Competitions
