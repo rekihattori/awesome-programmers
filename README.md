@@ -31,7 +31,10 @@ a list of the best engineers in the world
 - [Theo Härder](https://en.wikipedia.org/wiki/Theo_H%C3%A4rder): The co-designer of definitions for ACID transactions
 - [Phil Bernstein](https://www.microsoft.com/en-us/research/people/philbe/): The creator of concurrency control over distributed network
 
-## Artificial Intelligence
+## Algorithms
+
+### Artificial Intelligence
+
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
@@ -44,8 +47,10 @@ a list of the best engineers in the world
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
 
 ## Programming Languages
+- [Alan J. Perlis](http://history.computer.org/pioneers/perlis.html): Helped standardize education of computer science and programming language design
+- [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 
-## Algorithms
+
 
 ## Competitions
 
