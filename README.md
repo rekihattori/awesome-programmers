@@ -33,6 +33,9 @@ a list of the best engineers in the world
 
 ## Algorithms
 
+### Theory
+- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of the rigorous analysis and help formalize algorithm techniques like  asymptotic notation.
+
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
 - [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky): Helped establish the principle concepts of artificial intelligence and co-founder of the Massachusetts Institute of Technology's AI laboratory
@@ -60,3 +63,4 @@ a list of the best engineers in the world
 ## Competitions
 
 ## Writers
+- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work The Art of Computer Programming.
