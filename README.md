@@ -34,7 +34,7 @@ a list of the best engineers in the world
 ## Algorithms
 
 ### Theory
-- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of the rigorous analysis and help formalize algorithm techniques like  asymptotic notation.
+- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of algorithm analysis and help formalize algorithm techniques like asymptotic notation and knuth-bendix completion algorithm.
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
@@ -58,7 +58,7 @@ a list of the best engineers in the world
 - [Alan J. Perlis](http://history.computer.org/pioneers/perlis.html): Helped standardize education of computer science and programming language design
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
-- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system
+- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
 
 ## Competitions
 
