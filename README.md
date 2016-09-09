@@ -40,6 +40,7 @@ a list of the best engineers in the world
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
 - [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky): Helped establish the principle concepts of artificial intelligence and co-founder of the Massachusetts Institute of Technology's AI laboratory
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): One of the founders for the discipline of artificial intelligence and coined the term "artificial intelligence".
+- [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
@@ -59,6 +60,7 @@ a list of the best engineers in the world
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
+- [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Helped create Information Processing Language (IPL) which introduced the concept of list processing.
 
 ## Competitions
 
