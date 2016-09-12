@@ -64,6 +64,7 @@ a list of the best engineers in the world
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing.
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
+- [Alain Colmerauer](https://en.wikipedia.org/wiki/Alain_Colmerauer): The creator of [Prolog](https://en.wikipedia.org/wiki/Prolog) and one of the main founders of [Constraint logic programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)
 
 ## Competitions
 
