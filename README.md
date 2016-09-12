@@ -70,5 +70,5 @@ a list of the best engineers in the world
 ## Competitions
 
 ## Writers
-- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work The Art of Computer Programming.
+- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the author of [Elements of Programming](http://www.elementsofprogramming.com/)
