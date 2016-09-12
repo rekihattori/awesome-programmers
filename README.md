@@ -45,6 +45,7 @@ a list of the best engineers in the world
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
+- [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
 
 ## System Architectures
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of time-sharing for computers with multiprogramming.
@@ -70,3 +71,4 @@ a list of the best engineers in the world
 
 ## Writers
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work The Art of Computer Programming.
+- [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the author of [Elements of Programming](http://www.elementsofprogramming.com/)
