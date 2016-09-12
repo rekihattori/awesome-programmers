@@ -7,11 +7,11 @@ a list of the best engineers in the world
 - **Databases**
 - **Tools**
 - **Programming Languages**
-- **Artificial Intelligence**
 - **Algorithms**
 - **System Architectures**
 - **Computational Theory**
 - **Computer Networking**
+- **Protocols / Standards**
 - **Competitions**
 - **Writers**
 
@@ -72,3 +72,6 @@ a list of the best engineers in the world
 ## Writers
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the author of [Elements of Programming](http://www.elementsofprogramming.com/)
+
+## Protocols / Standards
+- [Jeremie Miller](https://en.wikipedia.org/wiki/Jeremie_Miller): The original creator of the [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) (XMPP)
