@@ -63,6 +63,7 @@ a list of the best engineers in the world
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing.
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
+- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
 
 ## Competitions
 
