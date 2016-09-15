@@ -47,6 +47,9 @@ a list of the best engineers in the world
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
 
+### Computer Graphics
+- [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
+
 ## System Architectures
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of time-sharing for computers with multiprogramming.
 
