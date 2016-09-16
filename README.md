@@ -48,6 +48,7 @@ a list of the best engineers in the world
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
 - [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) javascript library
 - [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) javascript framework.
+- [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) Javascript Library 
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
