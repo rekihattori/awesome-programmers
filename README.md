@@ -44,6 +44,7 @@ a list of the best engineers in the world
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 
 ## Tools
+- [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
 - [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) javascript library
