@@ -51,6 +51,7 @@ a list of the best engineers in the world
 - [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) javascript framework.
 - [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) Javascript Library 
 - [Ryan Dahl](https://github.com/ry): The creator of the [Node.js](https://en.wikipedia.org/wiki/Node.js) Javascript runtime interpreter
+- [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson): The creator of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), the web application framework
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
