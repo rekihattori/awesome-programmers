@@ -53,6 +53,8 @@ a list of the best engineers in the world
 - [Ryan Dahl](https://github.com/ry): The creator of the [Node.js](https://en.wikipedia.org/wiki/Node.js) Javascript runtime interpreter
 - [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson): The creator of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), the web application framework
 - [Solomon Hykes](https://github.com/shykes): The creator of [Docker](https://en.wikipedia.org/wiki/Docker_(software)), the system virtualization tool
+- [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
+- [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
