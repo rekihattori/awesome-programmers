@@ -45,7 +45,8 @@ a list of the best engineers in the world
 
 ## Tools
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
-- [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+- [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+- [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) javascript library
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
