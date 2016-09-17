@@ -89,6 +89,7 @@ a list of the best engineers in the world
 - [Thomas E. Kurtz](https://en.wikipedia.org/wiki/Thomas_E._Kurtz): The co-creator of the [Basic](https://en.wikipedia.org/wiki/BASIC) Programming Language.
 - [Brad Cox](https://en.wikipedia.org/wiki/Brad_Cox): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Tom Love](): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
+- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [Javascript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
 
 
 ## Competitions
