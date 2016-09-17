@@ -31,6 +31,8 @@ a list of the best engineers in the world
 - [Theo Härder](https://en.wikipedia.org/wiki/Theo_H%C3%A4rder): The co-designer of definitions for ACID transactions
 - [Phil Bernstein](https://www.microsoft.com/en-us/research/people/philbe/): The creator of concepts for concurrency control over distributed networks
 - [Salvatore Sanfilippo (antirez)](https://github.com/antirez): The creator of the [Redis](https://en.wikipedia.org/wiki/Redis) key-value database
+- [Prashant Malik](https://www.linkedin.com/in/prmalik): The co-creator of the [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) distributed database system
+- [Avinash Lakshman](https://www.linkedin.com/in/avinashlakshman): The co-creator of the [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) distributed database system
 
 ## Algorithms
 
