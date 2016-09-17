@@ -90,6 +90,7 @@ a list of the best engineers in the world
 - [Brad Cox](https://en.wikipedia.org/wiki/Brad_Cox): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Tom Love](): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [Javascript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
+- [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
 
 
 ## Competitions
