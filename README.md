@@ -85,6 +85,8 @@ a list of the best engineers in the world
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
 - [Alain Colmerauer](https://en.wikipedia.org/wiki/Alain_Colmerauer): The creator of [Prolog](https://en.wikipedia.org/wiki/Prolog) and one of the main founders of [Constraint logic programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)
 - [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg): One of the original authors of [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language)) and Typescript.
+- [John G. Kemeny](https://en.wikipedia.org/wiki/John_G._Kemeny): The co-creator of the [Basic](https://en.wikipedia.org/wiki/BASIC) Programming Language.
+- [Thomas E. Kurtz](https://en.wikipedia.org/wiki/Thomas_E._Kurtz): The co-creator of the [Basic](https://en.wikipedia.org/wiki/BASIC) Programming Language.
 
 ## Competitions
 
