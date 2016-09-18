@@ -91,6 +91,7 @@ a list of the best engineers in the world
 - [Tom Love](): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [Javascript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
+- [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of [FORTRAN](https://en.wikipedia.org/wiki/Fortran), one of the first mainstream programming languages.
 
 
 ## Competitions
