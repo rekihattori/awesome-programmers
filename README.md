@@ -38,6 +38,7 @@ a list of the best engineers in the world
 
 ### Theory
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of algorithm analysis and help formalize algorithm techniques like asymptotic notation and knuth-bendix completion algorithm.
+- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Helped develop many profoundly impactful algorithms such as [Dijkstra's algorithm (shortest path algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm) and [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
@@ -71,6 +72,7 @@ a list of the best engineers in the world
 ## Computational Theory
 - [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming): Defined numerical methods, automatic coding systems, and error-detecting and error-correcting codes
 - [James H. Wilkinson](https://en.wikipedia.org/wiki/James_H._Wilkinson): Helped facilitate the use of the high-speed digital computer with numerical analysis developer of the "backward" error analysis.
+- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): The first to publish papers in the field of [concurrent programming](https://en.wikipedia.org/wiki/Concurrent_computing) and [distributed programming](https://en.wikipedia.org/wiki/Distributed_computing) while discovering concepts like [mutual exclusion](https://en.wikipedia.org/wiki/Mutual_exclusion) and the [semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming)).
 
 ## Computer Networking
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
@@ -79,7 +81,8 @@ a list of the best engineers in the world
 - [Alan J. Perlis](http://history.computer.org/pioneers/perlis.html): Helped standardize education of computer science and programming language design
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
-- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
+- [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): The creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
+- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing.
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
@@ -95,6 +98,8 @@ a list of the best engineers in the world
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
 - [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of [FORTRAN](https://en.wikipedia.org/wiki/Fortran), one of the first mainstream programming languages.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
+
+### Compilers
 
 ## Competitions
 
