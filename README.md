@@ -98,6 +98,7 @@ a list of the best engineers in the world
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
 - [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of [FORTRAN](https://en.wikipedia.org/wiki/Fortran), one of the first mainstream programming languages.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
+- [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): He discovered [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 
 ### Compilers
 
