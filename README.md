@@ -100,6 +100,7 @@ a list of the best engineers in the world
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
 - [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): He discovered [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling): The creator of the [Oak](https://en.wikipedia.org/wiki/Oak_(programming_language)) programming language which later became [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Rich Hickey](https://github.com/richhickey): The creator of [Clojure](https://en.wikipedia.org/wiki/Clojure), a modern [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) for [functional programming](https://en.wikipedia.org/wiki/Functional_programming) that compiles for the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine).
 
 ### Compilers
 
