@@ -83,8 +83,6 @@ a list of the best engineers in the world
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): The creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
-- [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing.
-- [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
 - [Kristen Nygaard](https://en.wikipedia.org/wiki/Kristen_Nygaard): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
 - [Ole-Johan Dahl](https://en.wikipedia.org/wiki/Ole-Johan_Dahl): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
@@ -103,6 +101,9 @@ a list of the best engineers in the world
 - [Rich Hickey](https://github.com/richhickey): The creator of [Clojure](https://en.wikipedia.org/wiki/Clojure), a modern [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) for [functional programming](https://en.wikipedia.org/wiki/Functional_programming) that compiles for the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine).
 
 ### Compilers
+- [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): The inventor of the [A-0 System](https://en.wikipedia.org/wiki/A-0_System), often considered as the first [compiler](https://en.wikipedia.org/wiki/Compiler) but functioned as a [loader](https://en.wikipedia.org/wiki/Loader_(computing)) for [Assembly](https://en.wikipedia.org/wiki/Assembly_language) resulting to the development of higher level programming languages.
+- [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing.
+- [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
 
 ## Competitions
 
