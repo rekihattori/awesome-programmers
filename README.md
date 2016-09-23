@@ -94,7 +94,7 @@ a list of the best engineers in the world
 - [Tom Love](): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [Javascript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
-- [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of [FORTRAN](https://en.wikipedia.org/wiki/Fortran), one of the first mainstream programming languages.
+- [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of the first high-level programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler, often credited as being the first [optimizing compiler](https://en.wikipedia.org/wiki/Optimizing_compiler) and fully complete compiler.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
 - [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): He discovered [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling): The creator of the [Oak](https://en.wikipedia.org/wiki/Oak_(programming_language)) programming language which later became [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
