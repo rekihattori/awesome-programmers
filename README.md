@@ -48,7 +48,9 @@ a list of the best engineers in the world
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 
 ## Tools
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the creators of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
 - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system
+- []
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
@@ -112,6 +114,7 @@ a list of the best engineers in the world
 
 ## Writing
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The author of several important programming books including [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style), [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment).
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the author of [Elements of Programming](http://www.elementsofprogramming.com/)
 - [Jeffrey Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman): He helped write several popular textbooks ranging from compilers, computational theory, data structures and databases including "the Dragon Book" and "the Cinderella Book".
 - [Alfred Aho](https://en.wikipedia.org/wiki/Alfred_Aho): He helped write several textbooks covering compilers and algorithms including industry classics like "the Dragon Book", and the Principles of Compiler Design.
@@ -120,6 +123,4 @@ a list of the best engineers in the world
 - [Jeremie Miller](https://en.wikipedia.org/wiki/Jeremie_Miller): The original creator of the [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) (XMPP)
 
 ## Misc
-
-- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the
-  original program to read "Hello World!".
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
