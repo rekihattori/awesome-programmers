@@ -94,17 +94,18 @@ a list of the best engineers in the world
 - [Tom Love](): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [Javascript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
-- [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of the first high-level programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler, often credited as being the first [optimizing compiler](https://en.wikipedia.org/wiki/Optimizing_compiler) and fully complete compiler.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
 - [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): He discovered [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling): The creator of the [Oak](https://en.wikipedia.org/wiki/Oak_(programming_language)) programming language which later became [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Rich Hickey](https://github.com/richhickey): The creator of [Clojure](https://en.wikipedia.org/wiki/Clojure), a modern [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) for [functional programming](https://en.wikipedia.org/wiki/Functional_programming) that compiles for the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine).
 - [Jean Ichbiah](https://en.wikipedia.org/wiki/Jean_Ichbiah): The creator of [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), an object oriented programming language.
+- [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing and often cited as the first functional programming language.
+- [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
+- [Kenneth E. Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson): The creator of [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) that lead innovations in [array programming](https://en.wikipedia.org/wiki/Array_data_type#Multi-dimensional_arrays) and contributing to the development of the functional programming paradigm.
 
 ### Compilers
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): The inventor of the [A-0 System](https://en.wikipedia.org/wiki/A-0_System), often considered as the first [compiler](https://en.wikipedia.org/wiki/Compiler) but functioned as a [loader](https://en.wikipedia.org/wiki/Loader_(computing)) for [Assembly](https://en.wikipedia.org/wiki/Assembly_language) resulting to the development of higher level programming languages.
-- [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing.
-- [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
+- [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of the first high-level programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler, often credited as being the first [optimizing compiler](https://en.wikipedia.org/wiki/Optimizing_compiler) and fully complete compiler.
 
 ## Competitions
 
