@@ -99,6 +99,7 @@ a list of the best engineers in the world
 - [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): He discovered [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling): The creator of the [Oak](https://en.wikipedia.org/wiki/Oak_(programming_language)) programming language which later became [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Rich Hickey](https://github.com/richhickey): The creator of [Clojure](https://en.wikipedia.org/wiki/Clojure), a modern [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) for [functional programming](https://en.wikipedia.org/wiki/Functional_programming) that compiles for the [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine).
+- [Jean Ichbiah](https://en.wikipedia.org/wiki/Jean_Ichbiah): The creator of [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), an object oriented programming language.
 
 ### Compilers
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): The inventor of the [A-0 System](https://en.wikipedia.org/wiki/A-0_System), often considered as the first [compiler](https://en.wikipedia.org/wiki/Compiler) but functioned as a [loader](https://en.wikipedia.org/wiki/Loader_(computing)) for [Assembly](https://en.wikipedia.org/wiki/Assembly_language) resulting to the development of higher level programming languages.
