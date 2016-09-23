@@ -84,6 +84,7 @@ a list of the best engineers in the world
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): The creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The creator of the Unix text processing language [AWK](https://en.wikipedia.org/wiki/AWK) and the math computing language [AMPL](https://en.wikipedia.org/wiki/AMPL)
 - [Kristen Nygaard](https://en.wikipedia.org/wiki/Kristen_Nygaard): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
 - [Ole-Johan Dahl](https://en.wikipedia.org/wiki/Ole-Johan_Dahl): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
 - [Alain Colmerauer](https://en.wikipedia.org/wiki/Alain_Colmerauer): The creator of [Prolog](https://en.wikipedia.org/wiki/Prolog) and one of the main founders of [Constraint logic programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)
@@ -115,6 +116,10 @@ a list of the best engineers in the world
 - [Jeffrey Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman): He helped write several popular textbooks ranging from compilers, computational theory, data structures and databases including "the Dragon Book" and "the Cinderella Book".
 - [Alfred Aho](https://en.wikipedia.org/wiki/Alfred_Aho): He helped write several textbooks covering compilers and algorithms including industry classics like "the Dragon Book", and the Principles of Compiler Design.
 
-
 ## Protocols / Standards
 - [Jeremie Miller](https://en.wikipedia.org/wiki/Jeremie_Miller): The original creator of the [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) (XMPP)
+
+## Misc
+
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the
+  original program to read "Hello World!".
