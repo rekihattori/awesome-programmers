@@ -48,9 +48,9 @@ a list of the best engineers in the world
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 
 ## Tools
-- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the creators of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
-- [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system
-- []
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
+- [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system.
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the original developers of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
@@ -80,11 +80,12 @@ a list of the best engineers in the world
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
 
 ## Programming Languages
+- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The creator of the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language, one of the most influential languages of all time.
 - [Alan J. Perlis](http://history.computer.org/pioneers/perlis.html): Helped standardize education of computer science and programming language design
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): The creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, LR(k) grammars, and attribute grammars.
-- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The creator of the Unix text processing language [AWK](https://en.wikipedia.org/wiki/AWK) and the math computing language [AMPL](https://en.wikipedia.org/wiki/AMPL)
 - [Kristen Nygaard](https://en.wikipedia.org/wiki/Kristen_Nygaard): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
@@ -114,7 +115,8 @@ a list of the best engineers in the world
 
 ## Writing
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
-- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The author of several important programming books including [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style), [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment).
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The author of several of the most important programming books including [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style), [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment).
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The author of [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language), the authoritative reference of the language.
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the author of [Elements of Programming](http://www.elementsofprogramming.com/)
 - [Jeffrey Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman): He helped write several popular textbooks ranging from compilers, computational theory, data structures and databases including "the Dragon Book" and "the Cinderella Book".
 - [Alfred Aho](https://en.wikipedia.org/wiki/Alfred_Aho): He helped write several textbooks covering compilers and algorithms including industry classics like "the Dragon Book", and the Principles of Compiler Design.
