@@ -47,6 +47,7 @@ a list of the best engineers in the world
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): One of the founders for the discipline of artificial intelligence and coined the term "artificial intelligence".
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert A. Simon, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
+- [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)): He is sometimes considered to be the founder in the academic field of artificial intelligence by organizing a group in IBM focused on the subject. This group later evolved into the [Dartmouth Conferences](https://en.wikipedia.org/wiki/Dartmouth_Conferences), the seminal event in the artificial intelligence.
 
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
@@ -108,6 +109,7 @@ a list of the best engineers in the world
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
 - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling): The creator of the [Oak](https://en.wikipedia.org/wiki/Oak_(programming_language)) programming language which later became [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)): The creator of the first [assembler](https://en.wikipedia.org/wiki/Assembly_language#Assembler), translating assembly code into byte code for the first mass-produced computer that he also created, the [IBM 701](https://en.wikipedia.org/wiki/IBM_701).
 - [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): One of the discoverers of [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [John C. Reynolds](https://en.wikipedia.org/wiki/John_C._Reynolds): One of the discoverers of [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [Rich Hickey](https://github.com/richhickey): The creator of the [Clojure](https://en.wikipedia.org/wiki/Clojure) functional programming language, a modern [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) that compiles for the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
