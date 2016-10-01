@@ -106,6 +106,7 @@ a list of the best engineers in the world
 - [Jean-Yves Girard](https://en.wikipedia.org/wiki/Jean-Yves_Girard): One of the discoverers of [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [John C. Reynolds](https://en.wikipedia.org/wiki/John_C._Reynolds): One of the discoverers of [System F](https://en.wikipedia.org/wiki/System_F), the polymorphic lambda calculus that forms the theoretical basis for Haskell and ML.
 - [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup): The creator of [C++](https://en.wikipedia.org/wiki/C%2B%2B), one of the most popular programming languages of all time.
+- [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall): The creator of the [Perl](https://en.wikipedia.org/wiki/Perl) dynamic programming language popularized by its unsurpassed regular expression and string parsing abilities.
 - [Joe Armstrong](https://github.com/joearms): The creator of [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) Functional Programming Language
 - [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg): One of the original authors of [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language)) and Typescript.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
