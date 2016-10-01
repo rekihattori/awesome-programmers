@@ -109,6 +109,7 @@ a list of the best engineers in the world
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
 - [Kenneth E. Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson): The creator of [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) that lead innovations in [array programming](https://en.wikipedia.org/wiki/Array_data_type#Multi-dimensional_arrays) and contributing to the development of the functional programming paradigm.
 - [Yukihiro Matsumoto](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto): The creator of the [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) programming language.
+- [Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer): The creator of the [Eiffel](https://en.wikipedia.org/wiki/Eiffel_(programming_language)) programming language, one of the first object oriented languages and creator of [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract).
 
 ### Compilers
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): The inventor of the [A-0 System](https://en.wikipedia.org/wiki/A-0_System), often considered as the first [compiler](https://en.wikipedia.org/wiki/Compiler) but functioned as a [loader](https://en.wikipedia.org/wiki/Loader_(computing)) for [Assembly](https://en.wikipedia.org/wiki/Assembly_language) resulting to the development of higher level programming languages.
