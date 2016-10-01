@@ -113,6 +113,7 @@ a list of the best engineers in the world
 - [Yukihiro Matsumoto](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto): The creator of the [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) programming language.
 - [Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer): The creator of the [Eiffel](https://en.wikipedia.org/wiki/Eiffel_(programming_language)) programming language, one of the first object oriented languages and creator of [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract).
 - [Robin Milner](https://en.wikipedia.org/wiki/Robin_Milner): The creator of [ML](https://en.wikipedia.org/wiki/ML_(programming_language)) functional programming language, the first to use polymorphic type inference alongside type-safe exception handling
+- [Martin Odersky](https://en.wikipedia.org/wiki/Martin_Odersky): The creator of the [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language)) functional / object-oriented programming language for the Java Virtual Machine.
 
 ### Compilers
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): The inventor of the [A-0 System](https://en.wikipedia.org/wiki/A-0_System), often considered as the first [compiler](https://en.wikipedia.org/wiki/Compiler) but functioned as a [loader](https://en.wikipedia.org/wiki/Loader_(computing)) for [Assembly](https://en.wikipedia.org/wiki/Assembly_language) resulting to the development of higher level programming languages.
