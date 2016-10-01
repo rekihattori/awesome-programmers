@@ -39,6 +39,7 @@ a list of the best engineers in the world
 ### Theory
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of algorithm analysis and help formalize algorithm techniques like asymptotic notation and knuth-bendix completion algorithm.
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Helped develop many profoundly impactful algorithms such as [Dijkstra's algorithm (shortest path algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm) and [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
+- [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann): The inventor of the [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm, an efficient and one of the most widely used sorting algorithms.
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
@@ -76,6 +77,7 @@ a list of the best engineers in the world
 - [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming): Defined numerical methods, automatic coding systems, and error-detecting and error-correcting codes
 - [James H. Wilkinson](https://en.wikipedia.org/wiki/James_H._Wilkinson): Helped facilitate the use of the high-speed digital computer with numerical analysis developer of the "backward" error analysis.
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): The first to publish papers in the field of [concurrent programming](https://en.wikipedia.org/wiki/Concurrent_computing) and [distributed programming](https://en.wikipedia.org/wiki/Distributed_computing) while discovering concepts like [mutual exclusion](https://en.wikipedia.org/wiki/Mutual_exclusion) and the [semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming)).
+- [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann): He created the [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) that describes a design for a digital computer which continues to be the basis of modern computer designs with breakthrough concepts like shared address space for memory. He also started the field of [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) and is considered to be the creator of the first [computer virus](https://en.wikipedia.org/wiki/Computer_virus#Early_academic_work_on_self-replicating_programs) while studying self-replicating programs.
 
 ## Computer Networking
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
