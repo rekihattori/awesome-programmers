@@ -49,8 +49,9 @@ a list of the best engineers in the world
 
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
+- [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family and one of the original developers for the [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) operating system.
 - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system.
-- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the original developers of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the original developers of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family, often credited to coin the name.
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
@@ -82,6 +83,7 @@ a list of the best engineers in the world
 ## Programming Languages
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The creator of the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language, one of the most influential languages of all time.
+- [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): The co-creator of the [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) programming language and sole creator of the [B](https://en.wikipedia.org/wiki/B_(programming_language)) programming language, the direct predecessor of the C programming language.
 - [Alan J. Perlis](http://history.computer.org/pioneers/perlis.html): Helped standardize education of computer science and programming language design
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): The original developer of the Lisp programming language family, and significantly influenced the design of the ALGOL programming language.
