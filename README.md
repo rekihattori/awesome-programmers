@@ -132,6 +132,9 @@ a list of the best engineers in the world
 - [Jose Valim](https://github.com/josevalim): The creator of the functional concurrent programming language [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) built on top of BEAM Erlang virtual machine.
 - [Jeff Bezanson](https://en.wikipedia.org/wiki/Jeff_Bezanson): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
 - [Stefan Karpinski](https://en.wikipedia.org/wiki/Stefan_Karpinski): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
+- [Ary Borenszweig](https://github.com/asterite): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
+- [Juan Wajnerman](https://github.com/waj): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
+- [Andrey Breslav](https://github.com/abreslav): The co-creator of the JVM run, statically typed programming language [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)).
 
 ## Competitions
 
