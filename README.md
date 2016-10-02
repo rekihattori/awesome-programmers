@@ -130,6 +130,8 @@ a list of the best engineers in the world
 - [Graydon Hoare](https://github.com/graydon): The original creator of the [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) low-level systems programming language.
 - [Jeremy Ashkenas](https://github.com/jashkenas): The creator of the Javascript transcompiled programming language [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript).
 - [Jose Valim](https://github.com/josevalim): The creator of the functional concurrent programming language [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) built on top of BEAM Erlang virtual machine.
+- [Jeff Bezanson](https://en.wikipedia.org/wiki/Jeff_Bezanson): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
+- [Stefan Karpinski](https://en.wikipedia.org/wiki/Stefan_Karpinski): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
 
 ## Competitions
 
