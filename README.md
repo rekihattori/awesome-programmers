@@ -126,6 +126,7 @@ a list of the best engineers in the world
 - [Robin Milner](https://en.wikipedia.org/wiki/Robin_Milner): The creator of [ML](https://en.wikipedia.org/wiki/ML_(programming_language)) functional programming language, the first to use polymorphic type inference alongside type-safe exception handling
 - [Rasmus Lerdorf](https://en.wikipedia.org/wiki/Rasmus_Lerdorf): The creator of the server-side scripting language [PHP](https://en.wikipedia.org/wiki/PHP) primarily used for web development.
 - [Martin Odersky](https://en.wikipedia.org/wiki/Martin_Odersky): The creator of the [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language)) functional / object-oriented programming language for the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
+- [Xavier Leroy](https://en.wikipedia.org/wiki/Xavier_Leroy): The co-creator of the [OCaml](https://en.wikipedia.org/wiki/OCaml) programming language that has functional and object oriented properties to its design.
 - [Graydon Hoare](https://github.com/graydon): The original creator of the [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) low-level systems programming language.
 - [Jeremy Ashkenas](https://github.com/jashkenas): The creator of the Javascript transcompiled programming language [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript).
 - [Jose Valim](https://github.com/josevalim): The creator of the functional concurrent programming language [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) built on top of BEAM Erlang virtual machine.
