@@ -17,11 +17,11 @@ a list of the best engineers in the world
 
 ## Databases
 - [Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting): The creator of Hadoop, Lucene and Nutch
-- [Donald D. Chamberlin](https://en.wikipedia.org/wiki/Donald_D._Chamberlin): The co-creator of SQL
-- [Raymond F. Boyce](https://en.wikipedia.org/wiki/Raymond_F._Boyce): The co-creator of SQL
+- [Donald D. Chamberlin](https://en.wikipedia.org/wiki/Donald_D._Chamberlin): The co-creator of the most popular database query language, [SQL](https://en.wikipedia.org/wiki/SQL).
+- [Raymond F. Boyce](https://en.wikipedia.org/wiki/Raymond_F._Boyce): The co-creator of the most popular database query language, [SQL](https://en.wikipedia.org/wiki/SQL).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-author of BigTable, MapReduce and Spanner
 - [Sanjay Ghemawat](http://research.google.com/pubs/SanjayGhemawat.html): The co-author of BigTable, MapReduce and Spanner
-- [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the relational database and helped create System R
+- [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the [relational model](https://en.wikipedia.org/wiki/Relational_model) for database management, the theoretical basis for RDMS and co-creator of System R, the first implementation of the [SQL](https://en.wikipedia.org/wiki/SQL) database query language.
 - [Charles W. Bachman](https://en.wikipedia.org/wiki/Charles_Bachman): The designer of the navigational database [Integrated Data Store](https://en.wikipedia.org/wiki/Integrated_Data_Store), known to be one of the first database management systems and he is the organizer of the group [CODASYL](https://en.wikipedia.org/wiki/CODASYL).
 - [T. William Olle](https://en.wikipedia.org/wiki/T._William_Olle): He was an active developer in the [CODASYL](https://en.wikipedia.org/wiki/CODASYL) consortium that promoted effective data systems analysis, design and implementation.
 - [Vern Watts](): The creator of the [IMS](https://en.wikipedia.org/wiki/IBM_Information_Management_System) IBM hierarchical database system.
