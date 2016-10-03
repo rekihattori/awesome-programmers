@@ -24,6 +24,7 @@ a list of the best engineers in the world
 - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the relational database and helped create System R
 - [Charles W. Bachman](https://en.wikipedia.org/wiki/Charles_Bachman): The designer of the navigational database [Integrated Data Store](https://en.wikipedia.org/wiki/Integrated_Data_Store), known to be one of the first database management systems and he is the organizer of the group [CODASYL](https://en.wikipedia.org/wiki/CODASYL).
 - [T. William Olle](https://en.wikipedia.org/wiki/T._William_Olle): He was an active developer in the [CODASYL](https://en.wikipedia.org/wiki/CODASYL) consortium that promoted effective data systems analysis, design and implementation.
+- [Vern Watts](): The creator of the [IMS](https://en.wikipedia.org/wiki/IBM_Information_Management_System) IBM hierarchical database system.
 - [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker): The creator of Ingres and Postgres database
 - [Avinash Lakshman](https://www.linkedin.com/in/avinashlakshman): The co-creator of Dynamo and creator of Cassandra
 - [Werner Vogels](https://en.wikipedia.org/wiki/Werner_Vogels): The co-creator of Dynamo
