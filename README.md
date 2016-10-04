@@ -26,9 +26,9 @@ a list of the best engineers in the world
 - [Michael Stonebraker](https://en.wikipedia.org/wiki/Michael_Stonebraker): The creator of Ingres and Postgres database
 - [Avinash Lakshman](https://www.linkedin.com/in/avinashlakshman): The co-creator of the [Dynamo](https://en.wikipedia.org/wiki/Dynamo_(storage_system)) storage system which has played an [influential role](https://vimeo.com/144994937) in the modern design of highly scalable databases. He is also the creator of the [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) distributed database system.
 - [Werner Vogels](https://en.wikipedia.org/wiki/Werner_Vogels): The co-creator of the [Dynamo](https://en.wikipedia.org/wiki/Dynamo_(storage_system)) storage system which has played an [influential role](https://vimeo.com/144994937) in the modern design of highly scalable databases.
-- [Jim Gray](https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)): The original designer of database transactions
-- [Andreas Reuter](https://en.wikipedia.org/wiki/Andreas_Reuter): The co-designer of definitions for ACID transactions
-- [Theo Härder](https://en.wikipedia.org/wiki/Theo_H%C3%A4rder): The co-designer of definitions for ACID transactions
+- [Jim Gray](https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)): The original designer of [database transactions](https://en.wikipedia.org/wiki/Database_transaction), the single logical unit of work performed by a database.
+- [Andreas Reuter](https://en.wikipedia.org/wiki/Andreas_Reuter): Helped coin the definitions for [ACID](https://en.wikipedia.org/wiki/ACID) properties of database transactions.
+- [Theo Härder](https://en.wikipedia.org/wiki/Theo_H%C3%A4rder): Helped coin the definitions for [ACID](https://en.wikipedia.org/wiki/ACID) properties of database transactions.
 - [Phil Bernstein](https://www.microsoft.com/en-us/research/people/philbe/): The creator of concepts for concurrency control over distributed networks
 - [Salvatore Sanfilippo (antirez)](https://github.com/antirez): The creator of the [Redis](https://en.wikipedia.org/wiki/Redis) key-value database
 - [Prashant Malik](https://www.linkedin.com/in/prmalik): The co-creator of the [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) distributed database system
