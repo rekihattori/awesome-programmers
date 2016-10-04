@@ -41,6 +41,8 @@ a list of the best engineers in the world
 - [Vern Watts](): The creator of the [IMS](https://en.wikipedia.org/wiki/IBM_Information_Management_System) IBM hierarchical database system.
 - [Shay Banon](https://github.com/kimchy): The creator of the Lucene based full-text search engine database [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch).
 - [Yonik Seeley](https://github.com/yonik): The creator of the Lucene based full-text search engine database [Solr](https://en.wikipedia.org/wiki/Apache_Solr).
+- [Joydeep Sen Sarma](https://www.linkedin.com/in/joydeeps): The co-creator of the Hadoop based data warehouse framework [Hive](https://en.wikipedia.org/wiki/Apache_Hive).
+- [Ashish Thusoo ](https://www.linkedin.com/in/ashishthusoo): The co-creator of the Hadoop based data warehouse framework [Hive](https://en.wikipedia.org/wiki/Apache_Hive).
 
 ## Algorithms
 
