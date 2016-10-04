@@ -48,6 +48,7 @@ a list of the best engineers in the world
 - [Luca Garulli](https://github.com/lvca): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
 - [Andrey Lomakin](https://github.com/laa): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
 - [Andy Gross](https://github.com/argv0): The co-creator of the highly scalable key-value database [Riak](https://en.wikipedia.org/wiki/Riak).
+- [Damien Katz](https://github.com/Damienkatz): The creator of the document-oriented database [CouchDB](https://en.wikipedia.org/wiki/CouchDB).
 
 ## Algorithms
 
