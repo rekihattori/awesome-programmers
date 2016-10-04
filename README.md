@@ -39,6 +39,7 @@ a list of the best engineers in the world
 - [C.Wayne Ratliff](https://en.wikipedia.org/wiki/Wayne_Ratliff): The creator of [dBase](https://en.wikipedia.org/wiki/DBase), originally named Vulcan, one of the first databases with a development environment on personal computers in the 1980s.
 - [Malcolm Atkinson](https://en.wikipedia.org/wiki/Malcolm_Atkinson): One of the early pioneers of the [Object database](https://en.wikipedia.org/wiki/Object_database) defining the core concepts in his paper Object-Oriented Database Manifesto.
 - [Vern Watts](): The creator of the [IMS](https://en.wikipedia.org/wiki/IBM_Information_Management_System) IBM hierarchical database system.
+- [Dwight Merriman](https://github.com/dwight): The creator of the popular document-oriented database system [Mongodb](https://en.wikipedia.org/wiki/MongoDB).
 - [Shay Banon](https://github.com/kimchy): The creator of the Lucene based full-text search engine database [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch).
 - [Yonik Seeley](https://github.com/yonik): The creator of the Lucene based full-text search engine database [Solr](https://en.wikipedia.org/wiki/Apache_Solr).
 - [Joydeep Sen Sarma](https://www.linkedin.com/in/joydeeps): The co-creator of the Hadoop based data warehouse framework [Hive](https://en.wikipedia.org/wiki/Apache_Hive).
