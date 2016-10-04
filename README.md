@@ -47,6 +47,7 @@ a list of the best engineers in the world
 - [Brad Fitzpatrick](https://en.wikipedia.org/wiki/Brad_Fitzpatrick): The creator of the distributed memory caching system [Memcached](https://en.wikipedia.org/wiki/Memcached).
 - [Luca Garulli](https://github.com/lvca): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
 - [Andrey Lomakin](https://github.com/laa): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
+- [Andy Gross](https://github.com/argv0): The co-creator of the highly scalable key-value database [Riak](https://en.wikipedia.org/wiki/Riak).
 
 ## Algorithms
 
