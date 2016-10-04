@@ -45,10 +45,13 @@ a list of the best engineers in the world
 - [Joydeep Sen Sarma](https://www.linkedin.com/in/joydeeps): The co-creator of the Hadoop based data warehouse framework [Hive](https://en.wikipedia.org/wiki/Apache_Hive).
 - [Ashish Thusoo ](https://www.linkedin.com/in/ashishthusoo): The co-creator of the Hadoop based data warehouse framework [Hive](https://en.wikipedia.org/wiki/Apache_Hive).
 - [Brad Fitzpatrick](https://en.wikipedia.org/wiki/Brad_Fitzpatrick): The creator of the distributed memory caching system [Memcached](https://en.wikipedia.org/wiki/Memcached).
-- [Luca Garulli](https://github.com/lvca): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
-- [Andrey Lomakin](https://github.com/laa): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
 - [Andy Gross](https://github.com/argv0): The co-creator of the highly scalable key-value database [Riak](https://en.wikipedia.org/wiki/Riak).
 - [Damien Katz](https://github.com/Damienkatz): The creator of the document-oriented database [CouchDB](https://en.wikipedia.org/wiki/CouchDB).
+- [Luca Garulli](https://github.com/lvca): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
+- [Andrey Lomakin](https://github.com/laa): The co-creator of the multi-model NoSQL database [OrientDB](https://en.wikipedia.org/wiki/OrientDB)
+- [Emil Eifrem](https://github.com/emileifrem): The co-creator of the graph database [Neo4j](https://en.wikipedia.org/wiki/Neo4j)
+- [Johan Svensson](https://github.com/johan-neo): The co-creator of the graph database [Neo4j](https://en.wikipedia.org/wiki/Neo4j)
+- [Matthias Broecheler](https://github.com/mbroecheler): The creator of the graph database [Titan](https://github.com/thinkaurelius/titan)
 
 ## Algorithms
 
