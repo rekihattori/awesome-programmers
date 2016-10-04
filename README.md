@@ -61,6 +61,7 @@ a list of the best engineers in the world
 - [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann): The inventor of the [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm, an efficient and one of the most widely used sorting algorithms.
 - [Michael Burrows](https://en.wikipedia.org/wiki/Michael_Burrows): The co-creator of the efficient string compression algorithm [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform).
 - [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)): The co-creator of the efficient string compression algorithm [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform).
+- [Stephen Cook](https://en.wikipedia.org/wiki/Stephen_Cook): The author of seminal papers that describe the notions of [polynomial-time reduction](https://en.wikipedia.org/wiki/Polynomial-time_reduction), [NP-completeness](https://en.wikipedia.org/wiki/NP-completeness) and [propositional proof system](https://en.wikipedia.org/wiki/Propositional_proof_system), all making significant contributions to algorithmic complexity.
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
