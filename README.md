@@ -35,6 +35,7 @@ a list of the best engineers in the world
 - [Avinash Lakshman](https://www.linkedin.com/in/avinashlakshman): The co-creator of the [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) distributed database system
 - [Peter Chen](https://en.wikipedia.org/wiki/Peter_Chen): The creator of the [Entity–relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) which was a more familiar database design than earlier versions of relational models.
 - [T. William Olle](https://en.wikipedia.org/wiki/T._William_Olle): He was an active developer in the [CODASYL](https://en.wikipedia.org/wiki/CODASYL) consortium that promoted effective data systems analysis, design and implementation.
+- [C.Wayne Ratliff](https://en.wikipedia.org/wiki/Wayne_Ratliff): The creator of [dBase](https://en.wikipedia.org/wiki/DBase), originally named Vulcan, one of the first databases with a development environment on personal computers in the 1980s.
 - [Vern Watts](): The creator of the [IMS](https://en.wikipedia.org/wiki/IBM_Information_Management_System) IBM hierarchical database system.
 
 ## Algorithms
