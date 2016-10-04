@@ -66,6 +66,7 @@ a list of the best engineers in the world
 - [Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting): The creator of the data search library [Lucene](https://en.wikipedia.org/wiki/Lucene) and co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Mike Cafarella](https://en.wikipedia.org/wiki/Mike_Cafarella): The co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
+- [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy): The creator of the Unix text editor [vi](https://en.wikipedia.org/wiki/Vi), the creator of the [C shell](https://en.wikipedia.org/wiki/C_shell) user interface, one of the earliest developers of [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) and co-creator of Version 2 for [NFS](https://en.wikipedia.org/wiki/Network_File_System).
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
 - [James Duncan Davidson](https://en.wikipedia.org/wiki/James_Duncan_Davidson): The creator of the [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) Java HTTP web server
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
