@@ -46,6 +46,8 @@ a list of the best engineers in the world
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of algorithm analysis and help formalize algorithm techniques like asymptotic notation and knuth-bendix completion algorithm.
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Helped develop many profoundly impactful algorithms such as [Dijkstra's algorithm (shortest path algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm) and [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
 - [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann): The inventor of the [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm, an efficient and one of the most widely used sorting algorithms.
+- [Michael Burrows](https://en.wikipedia.org/wiki/Michael_Burrows): The co-creator of the efficient string compression algorithm [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform).
+- [David Wheeler](https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)): The co-creator of the efficient string compression algorithm [Burrows–Wheeler transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform).
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
@@ -75,6 +77,7 @@ a list of the best engineers in the world
 - [Solomon Hykes](https://github.com/shykes): The creator of [Docker](https://en.wikipedia.org/wiki/Docker_(software)), the system virtualization tool
 - [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
+- [Michael Burrows](https://en.wikipedia.org/wiki/Michael_Burrows): The co-creator of the lock service for distributed systems [Chubby](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
