@@ -66,7 +66,6 @@ a list of the best engineers in the world
 - [John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft): The co-publisher of the [Hopcroft–Karp algorithm](https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm) for finding maximum cardinality [matchings](https://en.wikipedia.org/wiki/Matching_(graph_theory)) and the co-publisher of the [Hopcroft-Tarjan Planarity Algorithm](https://en.wikipedia.org/wiki/Planarity_testing#Path_addition_method).
 - [Robert Tarjan](https://en.wikipedia.org/wiki/Robert_Tarjan): The publisher of the [Tarjan's off-line lowest common ancestors algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_off-line_lowest_common_ancestors_algorithm), the publisher of [Tarjan's strongly connected components algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm), the co-author of the [Hopcroft-Tarjan Planarity Algorithm](https://en.wikipedia.org/wiki/Planarity_testing#Path_addition_method), the creator of the [Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap) data structure and co-created the [splay tree](https://en.wikipedia.org/wiki/Splay_tree) data structure.
 - [John Cocke](https://en.wikipedia.org/wiki/John_Cocke): The co-creator of the [CYK algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) for parsing context-free grammars in compilers.
-- [William Kahan](https://en.wikipedia.org/wiki/William_Kahan): The primary architect behind the floating point computation standard [IEEE 754-1985](https://en.wikipedia.org/wiki/IEEE_754-1985) which was the de-facto standard for implementation rules of floating points in software.
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
@@ -82,6 +81,7 @@ a list of the best engineers in the world
 - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system.
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the original developers of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family, often credited to coin the name.
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+- [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The co-creator of the operating system, laser printer software, the first Ethernet and the [Bravo WYSIWYG](https://en.wikipedia.org/wiki/Bravo_(software)) text editor for the first personal computer [Xerox Alto](https://en.wikipedia.org/wiki/Xerox_Alto).
 - [Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting): The creator of the data search library [Lucene](https://en.wikipedia.org/wiki/Lucene) and co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Mike Cafarella](https://en.wikipedia.org/wiki/Mike_Cafarella): The co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of Tensorflow
@@ -186,6 +186,8 @@ a list of the best engineers in the world
 
 ## Protocols / Standards
 - [Jeremie Miller](https://en.wikipedia.org/wiki/Jeremie_Miller): The original creator of the [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) (XMPP)
+- [William Kahan](https://en.wikipedia.org/wiki/William_Kahan): The primary architect behind the floating point computation standard [IEEE 754-1985](https://en.wikipedia.org/wiki/IEEE_754-1985) which was the de-facto standard for implementation rules of floating points in software.
+- [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The creator of the [two-phase commit protocol](https://en.wikipedia.org/wiki/Two-phase_commit_protocol) which coordinates the processes in a distributed atomic transaction on whether to commit or rollback the transaction.
 
 ## Misc
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
