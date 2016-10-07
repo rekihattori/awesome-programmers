@@ -105,8 +105,9 @@ a list of the best engineers in the world
 - [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland): He is the creator of the revolutionary computer program [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad), often known to be the first real-time graphical user interface and foundation for modern [Computer-aided design](https://en.wikipedia.org/wiki/Computer-aided_design) and the creator of whats considered to be the first virtual reality head-mounted system [The Sword of Damocles](https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)).
 
 ## System Architectures
-- [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of time-sharing for computers with multiprogramming.
+- [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) for computers with multiprogramming.
 - [John Cocke](https://en.wikipedia.org/wiki/John_Cocke): The creator of the [Reduced Instruction Set Computing (RISC)](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) architecture that optimized the basic set of computer instructions appropriately for the compiler to produce a high performance pipelined processor.
+- [Fernando J. Corbató](https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3): The co-author of a paper that describes one of the earliest [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) computer systems [CTSS (compatible time-sharing system)](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System) and the original creator of the influential time-sharing operating system [Multics](https://en.wikipedia.org/wiki/Multics) which pioneered many concepts widely adopted by almost all operating systems like Unix.
 
 ## Computational Theory
 - [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming): Defined numerical methods, automatic coding systems, and error-detecting and error-correcting codes
