@@ -101,7 +101,7 @@ a list of the best engineers in the world
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
-- [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland): He is the creator of the revolutionary computer program [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad), often known to be the first real-time graphical user interface and foundation for modern [Computer-aided design](https://en.wikipedia.org/wiki/Computer-aided_design).
+- [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland): He is the creator of the revolutionary computer program [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad), often known to be the first real-time graphical user interface and foundation for modern [Computer-aided design](https://en.wikipedia.org/wiki/Computer-aided_design) and the creator of whats considered to be the first virtual reality head-mounted system [The Sword of Damocles](https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)).
 
 ## System Architectures
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of time-sharing for computers with multiprogramming.
