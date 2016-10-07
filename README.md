@@ -53,7 +53,7 @@ a list of the best engineers in the world
 - [Johan Svensson](https://github.com/johan-neo): The co-creator of the graph database [Neo4j](https://en.wikipedia.org/wiki/Neo4j)
 - [Matthias Broecheler](https://github.com/mbroecheler): The creator of the graph database [Titan](https://github.com/thinkaurelius/titan)
 
-## Algorithms
+## Algorithms / Datatypes
 
 ### Theory
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of algorithm analysis and help formalize algorithm techniques like asymptotic notation and knuth-bendix completion algorithm.
@@ -66,6 +66,7 @@ a list of the best engineers in the world
 - [John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft): The co-publisher of the [Hopcroft–Karp algorithm](https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm) for finding maximum cardinality [matchings](https://en.wikipedia.org/wiki/Matching_(graph_theory)) and the co-publisher of the [Hopcroft-Tarjan Planarity Algorithm](https://en.wikipedia.org/wiki/Planarity_testing#Path_addition_method).
 - [Robert Tarjan](https://en.wikipedia.org/wiki/Robert_Tarjan): The publisher of the [Tarjan's off-line lowest common ancestors algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_off-line_lowest_common_ancestors_algorithm), the publisher of [Tarjan's strongly connected components algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm), the co-author of the [Hopcroft-Tarjan Planarity Algorithm](https://en.wikipedia.org/wiki/Planarity_testing#Path_addition_method), the creator of the [Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap) data structure and co-created the [splay tree](https://en.wikipedia.org/wiki/Splay_tree) data structure.
 - [John Cocke](https://en.wikipedia.org/wiki/John_Cocke): The co-creator of the [CYK algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) for parsing context-free grammars in compilers.
+- [William Kahan](https://en.wikipedia.org/wiki/William_Kahan): The primary architect behind the floating point computation standard [IEEE 754-1985](https://en.wikipedia.org/wiki/IEEE_754-1985) which was the de-facto standard for implementation rules of floating points in software.
 
 ### Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
