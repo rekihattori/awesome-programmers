@@ -101,6 +101,7 @@ a list of the best engineers in the world
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
+- [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland): He is the creator of the revolutionary computer program [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad), often known to be the first real-time graphical user interface and foundation for modern [Computer-aided design](https://en.wikipedia.org/wiki/Computer-aided_design).
 
 ## System Architectures
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): Developed the concept of time-sharing for computers with multiprogramming.
@@ -129,8 +130,9 @@ a list of the best engineers in the world
 - [John Backus](https://en.wikipedia.org/wiki/John_Backus): The creator of the first high-level compiled programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler, often credited as being the first [optimizing compiler](https://en.wikipedia.org/wiki/Optimizing_compiler) and fully complete compiler.
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing and often cited as the first functional programming language.
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, he helped create Information Processing Language and the Heuristic Compiler, the first system with capabilities for automatic programming.
-- [Kristen Nygaard](https://en.wikipedia.org/wiki/Kristen_Nygaard): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
-- [Ole-Johan Dahl](https://en.wikipedia.org/wiki/Ole-Johan_Dahl): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
+- [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland): The first to define the notion of "objects" and "instances" during the development of [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad).
+- [Kristen Nygaard](https://en.wikipedia.org/wiki/Kristen_Nygaard): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the formal concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
+- [Ole-Johan Dahl](https://en.wikipedia.org/wiki/Ole-Johan_Dahl): The co-inventor of [Simula](https://en.wikipedia.org/wiki/Simula) which introduced the formal concept of [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm.
 - [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner): The creator of the [LLVM](https://en.wikipedia.org/wiki/LLVM) compiler infrastructure, the [Clang](https://en.wikipedia.org/wiki/Clang) front-end compiler and the [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) programming language.
 - [John Cocke](https://en.wikipedia.org/wiki/John_Cocke): The
 - [Alain Colmerauer](https://en.wikipedia.org/wiki/Alain_Colmerauer): The creator of [Prolog](https://en.wikipedia.org/wiki/Prolog) and one of the main founders of [Constraint logic programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)
