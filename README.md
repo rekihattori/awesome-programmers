@@ -54,8 +54,6 @@ a list of the best engineers in the world
 - [Matthias Broecheler](https://github.com/mbroecheler): The creator of the graph database [Titan](https://github.com/thinkaurelius/titan)
 
 ## Algorithms / Datatypes
-
-### Theory
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): Help contribute to the development of algorithm analysis and help formalize algorithm techniques like asymptotic notation and knuth-bendix completion algorithm.
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Helped develop many profoundly impactful algorithms such as [Dijkstra's algorithm (shortest path algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm) and [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
 - [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann): The inventor of the [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm, an efficient and one of the most widely used sorting algorithms.
@@ -66,14 +64,17 @@ a list of the best engineers in the world
 - [John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft): The co-publisher of the [Hopcroft–Karp algorithm](https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm) for finding maximum cardinality [matchings](https://en.wikipedia.org/wiki/Matching_(graph_theory)) and the co-publisher of the [Hopcroft-Tarjan Planarity Algorithm](https://en.wikipedia.org/wiki/Planarity_testing#Path_addition_method).
 - [Robert Tarjan](https://en.wikipedia.org/wiki/Robert_Tarjan): The publisher of the [Tarjan's off-line lowest common ancestors algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_off-line_lowest_common_ancestors_algorithm), the publisher of [Tarjan's strongly connected components algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm), the co-author of the [Hopcroft-Tarjan Planarity Algorithm](https://en.wikipedia.org/wiki/Planarity_testing#Path_addition_method), the creator of the [Fibonacci heap](https://en.wikipedia.org/wiki/Fibonacci_heap) data structure and co-created the [splay tree](https://en.wikipedia.org/wiki/Splay_tree) data structure.
 - [John Cocke](https://en.wikipedia.org/wiki/John_Cocke): The co-creator of the [CYK algorithm](https://en.wikipedia.org/wiki/CYK_algorithm) for parsing context-free grammars in compilers.
+- [Juris Hartmanis](https://en.wikipedia.org/wiki/Juris_Hartmanis): The co-author of an influential paper that establishes the foundations for the field of [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and introduced [time complexity classes](https://en.wikipedia.org/wiki/Time_complexity#Complexity_classes) quantifying the efficiency of an algorithm.
+- [Richard E. Stearns](https://en.wikipedia.org/wiki/Richard_E._Stearns): The co-author of an influential paper that establishes the foundations for the field of [computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory) and introduced [time complexity classes](https://en.wikipedia.org/wiki/Time_complexity#Complexity_classes) quantifying the efficiency of an algorithm.
 
-### Artificial Intelligence
+## Artificial Intelligence
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Pioneered concepts of machines computing according to a set of rules.
 - [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky): Helped establish the principle concepts of artificial intelligence and co-founder of the Massachusetts Institute of Technology's AI laboratory
 - [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)): One of the founders for the discipline of artificial intelligence and coined the term "artificial intelligence".
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert A. Simon, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 - [Herbert A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon): Along with Allen Newell, helped build two of the earliest Artificial Intelligence programs, the Logic Theorist and the General Problem Solver.
 - [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)): He is sometimes considered to be the founder in the academic field of artificial intelligence by organizing a group in IBM focused on the subject. This group later evolved into the [Dartmouth Conferences](https://en.wikipedia.org/wiki/Dartmouth_Conferences), the seminal event in the artificial intelligence.
+- [Edward Feigenbaum](http://amturing.acm.org/award_winners/feigenbaum_4167235.cfm): The chief developer of the first [expert system](https://en.wikipedia.org/wiki/Expert_system) [Dendral](https://en.wikipedia.org/wiki/Dendral) primarily used to explore induction in problems for the scientific commmunity.
 
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
