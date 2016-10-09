@@ -198,6 +198,9 @@ a list of the best engineers in the world
 - [Juan Wajnerman](https://github.com/waj): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
 - [Andrey Breslav](https://github.com/abreslav): The co-creator of the JVM run, statically typed programming language [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)).
 
+### Compilers
+- [Alon Zakai](https://github.com/kripken): The creator of [emscripten](https://github.com/kripken/emscripten), the LLVM to Javascript compiler.
+
 ## Competitions
 
 ## Writing
