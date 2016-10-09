@@ -114,7 +114,9 @@ a list of the best engineers in the world
 - [Armin Ronacher](https://github.com/mitsuhiko): The creator of the micro web application framework for python [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)).
 - [Michael DeHaan](https://github.com/mpdehaan): The creator of the computer automation, configuration management tool [Ansible](https://en.wikipedia.org/wiki/Ansible_(software)).
 - [David Cournapeau](https://github.com/cournape): The creator of the machine learning library for python [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn).
+- [Max Howell](https://github.com/mxcl): The creator of the package management system for macOS [homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)).
 - [Mitchell Hashimoto](https://github.com/mitchellh): The creator of the virtual environment build tool [Vagrant](https://github.com/mitchellh/vagrant).
+- [Jose Valim](https://github.com/josevalim): The co-creator of the authentication plugin for Rails [Devise](https://github.com/plataformatec/devise).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
