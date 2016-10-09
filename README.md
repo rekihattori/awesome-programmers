@@ -111,6 +111,7 @@ a list of the best engineers in the world
 - [Cheng Zhao](https://github.com/zcbenz): The creator of the popular desktop application development environment [electron](https://github.com/electron/electron).
 - [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time javascript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
 - [Armin Ronacher](https://github.com/mitsuhiko): The creator of the micro web application framework for python [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)).
+- [Michael DeHaan](https://github.com/mpdehaan): The creator of the computer automation, configuration management tool [Ansible](https://en.wikipedia.org/wiki/Ansible_(software)).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
