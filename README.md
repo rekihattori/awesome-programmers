@@ -85,6 +85,7 @@ a list of the best engineers in the world
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
 - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family and one of the original developers for the [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) operating system.
+- [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-creator of [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) operating system and the [Inferno](https://en.wikipedia.org/wiki/Inferno_(operating_system)) operating system.
 - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): The creator of the [Linux Operating System Kernel](https://en.wikipedia.org/wiki/Linux_kernel) and the [Git](https://en.wikipedia.org/wiki/Git) distributed version control system.
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the original developers of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family, often credited to coin the name.
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
@@ -174,6 +175,7 @@ a list of the best engineers in the world
 - [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall): The creator of the [Perl](https://en.wikipedia.org/wiki/Perl) dynamic programming language popularized by its unsurpassed regular expression and string parsing abilities.
 - [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg): One of the original authors of [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language)) Pascal dialet programming toolkit and the [Typescript](https://en.wikipedia.org/wiki/TypeScript) Javascript superset language.
 - [Joe Armstrong](https://github.com/joearms): The creator of the [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) functional programming language known for being well suited for systems that are distributed, fault tolerant, and concurrent.
+- [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-creator of the [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) programming language.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
 - [John G. Kemeny](https://en.wikipedia.org/wiki/John_G._Kemeny): The co-creator of the [Basic](https://en.wikipedia.org/wiki/BASIC) Programming Language.
 - [Thomas E. Kurtz](https://en.wikipedia.org/wiki/Thomas_E._Kurtz): The co-creator of the [Basic](https://en.wikipedia.org/wiki/BASIC) Programming Language.
@@ -218,6 +220,8 @@ a list of the best engineers in the world
 - [Jeremie Miller](https://en.wikipedia.org/wiki/Jeremie_Miller): The original creator of the [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) (XMPP)
 - [William Kahan](https://en.wikipedia.org/wiki/William_Kahan): The primary architect behind the floating point computation standard [IEEE 754-1985](https://en.wikipedia.org/wiki/IEEE_754-1985) which was the de-facto standard for implementation rules of floating points in software.
 - [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The creator of the [two-phase commit protocol](https://en.wikipedia.org/wiki/Two-phase_commit_protocol) which coordinates the processes in a distributed atomic transaction on whether to commit or rollback the transaction.
+- [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-designer of the character encoding standard [UTF-8](https://en.wikipedia.org/wiki/UTF-8), capable of encoding all possible characters and is the most widely used encoding for HTML files.
+- [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): The co-designer of the character encoding standard [UTF-8](https://en.wikipedia.org/wiki/UTF-8), capable of encoding all possible characters and is the most widely used encoding for HTML files.
 
 ## Misc
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
