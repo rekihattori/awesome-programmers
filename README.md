@@ -118,6 +118,7 @@ a list of the best engineers in the world
 - [Mitchell Hashimoto](https://github.com/mitchellh): The creator of the virtual environment build tool [Vagrant](https://github.com/mitchellh/vagrant).
 - [Jose Valim](https://github.com/josevalim): The co-creator of the authentication plugin for Rails [Devise](https://github.com/plataformatec/devise).
 - [Taylor Otwell](https://github.com/taylorotwell): The creator of the PHP web application framework [Laravel](https://en.wikipedia.org/wiki/Laravel).
+- [Yangqing Jia](https://github.com/Yangqing): The creator of the deep learning framework [Caffe](https://github.com/BVLC/caffe).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
