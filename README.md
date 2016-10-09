@@ -106,6 +106,7 @@ a list of the best engineers in the world
 - [Mark Otto](https://github.com/mdo): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 - [Jacob Thornton](https://github.com/fat): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 - [Miško Hevery](https://github.com/mhevery): The creator of the javascript web application framework [AngularJS](https://en.wikipedia.org/wiki/AngularJS).
+- [Robby Russell](https://github.com/robbyrussell): The creator of popular shell framework [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
