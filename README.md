@@ -99,6 +99,7 @@ a list of the best engineers in the world
 - [James Duncan Davidson](https://en.wikipedia.org/wiki/James_Duncan_Davidson): The creator of the [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) Java HTTP web server
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
 - [Stephen R. Bourne](https://en.wikipedia.org/wiki/Stephen_R._Bourne): The creator of the influential command-line interpreter [Bourne Shell](https://en.wikipedia.org/wiki/Bourne_shell).
+- [Nathan Marz](https://github.com/nathanmarz): The creator of the distributed stream processing framework [Storm](https://en.wikipedia.org/wiki/Storm_(event_processor)).
 - [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) javascript library
 - [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) javascript framework.
 - [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) Javascript Library 
@@ -144,6 +145,7 @@ a list of the best engineers in the world
 - [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann): He created the [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) that describes a design for a digital computer which continues to be the basis of modern computer designs with breakthrough concepts like shared address space for memory. He also started the field of [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) and is considered to be the creator of the first [computer virus](https://en.wikipedia.org/wiki/Computer_virus#Early_academic_work_on_self-replicating_programs) while studying self-replicating programs.
 - [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming): Defined numerical methods, automatic coding systems, and error-detecting and error-correcting codes
 - [James H. Wilkinson](https://en.wikipedia.org/wiki/James_H._Wilkinson): Helped facilitate the use of the high-speed digital computer with numerical analysis developer of the "backward" error analysis.
+- [Nathan Marz](https://github.com/nathanmarz): The author of the data-processing [Lambda architecture](https://en.wikipedia.org/wiki/Lambda_architecture) designed to use stream-processing or batch processing to handle data at a large scale.
 
 ## Computer Networking
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
