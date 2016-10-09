@@ -110,9 +110,11 @@ a list of the best engineers in the world
 - [Geoff Schmidt](https://github.com/gschmidt): The co-creator of popular javascript application development environment [meteor](https://github.com/meteor/meteor).
 - [Cheng Zhao](https://github.com/zcbenz): The creator of the popular desktop application development environment [electron](https://github.com/electron/electron).
 - [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time javascript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
+- [Ben Christensen](https://github.com/benjchristensen): The creator of the asynchronous programming framework [RxJava](https://github.com/ReactiveX/RxJava) and the ReactiveX suite.
 - [Armin Ronacher](https://github.com/mitsuhiko): The creator of the micro web application framework for python [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)).
 - [Michael DeHaan](https://github.com/mpdehaan): The creator of the computer automation, configuration management tool [Ansible](https://en.wikipedia.org/wiki/Ansible_(software)).
 - [David Cournapeau](https://github.com/cournape): The creator of the machine learning library for python [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn).
+- [Mitchell Hashimoto](https://github.com/mitchellh): The creator of the virtual environment build tool [Vagrant](https://github.com/mitchellh/vagrant).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
