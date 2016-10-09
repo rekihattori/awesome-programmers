@@ -122,6 +122,7 @@ a list of the best engineers in the world
 - [Jose Valim](https://github.com/josevalim): The co-creator of the authentication plugin for Rails [Devise](https://github.com/plataformatec/devise).
 - [Taylor Otwell](https://github.com/taylorotwell): The creator of the PHP web application framework [Laravel](https://en.wikipedia.org/wiki/Laravel).
 - [Yangqing Jia](https://github.com/Yangqing): The creator of the deep learning framework [Caffe](https://github.com/BVLC/caffe).
+- [Jon Skeet](https://github.com/jskeet): The co-creator of the popular data serializing tool [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
@@ -220,3 +221,4 @@ a list of the best engineers in the world
 
 ## Misc
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
+- [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet): The user with the most "reputation" points on Stack Overflow.
