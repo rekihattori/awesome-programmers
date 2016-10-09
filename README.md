@@ -80,6 +80,7 @@ a list of the best engineers in the world
 - [Edward Feigenbaum](http://amturing.acm.org/award_winners/feigenbaum_4167235.cfm): The chief developer of the first [expert system](https://en.wikipedia.org/wiki/Expert_system) [Dendral](https://en.wikipedia.org/wiki/Dendral) primarily used to explore induction in problems for the scientific commmunity.
 - [Raj Reddy](http://amturing.acm.org/award_winners/reddy_9634208.cfm): The co-creator of early robotic systems like the Hearsay 1 that demonstrated advanced language speaking, and co-creator of many innovative artificial intelligence systems like the "blackboard model".
 - [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng): The co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) research project where one of the first applications of the deep learning model was applied and the co-developer of [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System).
+- [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) research project which is used for Android's speech recognition system, photo search and video recommendations.
 
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
