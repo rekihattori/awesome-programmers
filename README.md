@@ -130,6 +130,9 @@ a list of the best engineers in the world
 - [Joe Beda](https://github.com/jbeda): The co-creator of container cluster management system [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes), inspired by the Google Borg project.
 - [Guillaume Bort](https://github.com/guillaumebort): The creator of the web application framework for Scala and Java [Play](https://en.wikipedia.org/wiki/Play_Framework).
 - [Jonas Bonér](https://github.com/jboner): The creator of concurrent and distributed application toolkit on the JVM [Akka](https://en.wikipedia.org/wiki/Akka_(toolkit)).
+- [Jay Kreps](https://github.com/jkreps): The creator of the high-throughput message broker [Kafka](https://en.wikipedia.org/wiki/Apache_Kafka).
+- [Jun Rao](https://github.com/junrao): The creator of the high-throughput message broker [Kafka](https://en.wikipedia.org/wiki/Apache_Kafka).
+- [Neha Narkhede](https://github.com/nehanarkhede): The creator of the high-throughput message broker [Kafka](https://en.wikipedia.org/wiki/Apache_Kafka).
 
 ### Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
