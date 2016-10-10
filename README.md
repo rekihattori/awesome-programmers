@@ -153,9 +153,7 @@ a list of the best engineers in the world
 - [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming): Defined numerical methods, automatic coding systems, and error-detecting and error-correcting codes
 - [James H. Wilkinson](https://en.wikipedia.org/wiki/James_H._Wilkinson): Helped facilitate the use of the high-speed digital computer with numerical analysis developer of the "backward" error analysis.
 - [Nathan Marz](https://github.com/nathanmarz): The author of the data-processing [Lambda architecture](https://en.wikipedia.org/wiki/Lambda_architecture) designed to use stream-processing or batch processing to handle data at a large scale.
-
-## Computer Networking
-- [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the CAP theorem
+- [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the [ CAP theorem ](https://en.wikipedia.org/wiki/CAP_theorem) stating that a distributed computer system cannot simultaneously provide the guarantees Consistency, Availability and Partition Tolerance.
 
 ## Programming Languages
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
