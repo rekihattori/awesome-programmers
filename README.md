@@ -89,6 +89,7 @@ a list of the best engineers in the world
 - [Raj Reddy](http://amturing.acm.org/award_winners/reddy_9634208.cfm): The co-creator of early robotic systems like the Hearsay 1 that demonstrated advanced language speaking, and co-creator of many innovative artificial intelligence systems like the "blackboard model".
 - [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng): The co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) research project where one of the first applications of the deep learning model was applied and the co-developer of [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) research project which is used for Android's speech recognition system, photo search and video recommendations.
+- [Judea Pearl](http://amturing.acm.org/award_winners/pearl_2658896.cfm): The creator of the highly important [Bayesian networks](https://en.wikipedia.org/wiki/Bayesian_network) probabilistic graphical model and the principal inference algorithms within the model. He is also the developer of a theory for [casual inference](https://en.wikipedia.org/wiki/Causality).
 
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
