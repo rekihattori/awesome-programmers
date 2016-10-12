@@ -97,6 +97,7 @@ a list of the best engineers in the world
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): One of the original developers of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family, often credited to coin the name.
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The co-creator of the operating system, laser printer software, the first Ethernet and the [Bravo WYSIWYG](https://en.wikipedia.org/wiki/Bravo_(software)) text editor for the first personal computer [Xerox Alto](https://en.wikipedia.org/wiki/Xerox_Alto).
+- [Charles Thacker](http://amturing.acm.org/award_winners/thacker_1336106.cfm): The original designer, co-creator of the laser printer software and the first Ethernet for the first personal computer [Xerox Alto](https://en.wikipedia.org/wiki/Xerox_Alto).
 - [Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting): The creator of the data search library [Lucene](https://en.wikipedia.org/wiki/Lucene) and co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Mike Cafarella](https://en.wikipedia.org/wiki/Mike_Cafarella): The co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of the machine learning library [Tensorflow](https://en.wikipedia.org/wiki/TensorFlow).
