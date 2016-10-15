@@ -272,6 +272,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Alon Zakai](https://github.com/kripken): The creator of [emscripten](https://github.com/kripken/emscripten), the LLVM to Javascript compiler.
 
 ## Competitions
+-[Petr Mitrichev](https://en.wikipedia.org/wiki/Petr_Mitrichev): The winner of multiple [TopCoder](https://en.wikipedia.org/wiki/TopCoder) competitions, took 100 wins in a single round of TopCoder, winner of Russian Code Cup, winner of Facebook Hacker Cup, winner of Yandex algorithm competition, and winner of [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam).
 
 ## Writing
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
