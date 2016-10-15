@@ -166,6 +166,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-creator of programmable bitmap graphics terminal [Blit](https://en.wikipedia.org/wiki/Blit_(computer_terminal)).
 - [John Carmack](https://en.wikipedia.org/wiki/John_Carmack): The video game creator of Doom who innovated in 3D graphics with the Carmack's reverse algorithm for shadow volumes.
 - [William Fetter](https://en.wikipedia.org/wiki/William_Fetter): The creator of the first human figure as a 3D model while exploring perspective fundamentals for computer graphics while the coining the term "computer graphics".
+- [Pierre Bézier](https://en.wikipedia.org/wiki/Pierre_B%C3%A9zier): The creator of [3D CAD](https://en.wikipedia.org/wiki/Computer-aided_design#History), the creator of [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) and [Bézier surface](https://en.wikipedia.org/wiki/B%C3%A9zier_surface) 3D computer graphics concepts.
 
 ## Computer Architecture / Theory
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): The creator of the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) also known as the "automatic machine" because of its ability to automate sets of mathematical operations at a time when computing process was all handled by humans. This important discovery led to the fundamental principles of modern computing directly inspiring most digital systems including the Von Neumann architecture.
