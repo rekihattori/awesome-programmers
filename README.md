@@ -164,6 +164,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [David Canfield Smith](https://en.wikipedia.org/wiki/David_Canfield_Smith): The creator of the "Pygmalion" system that directly led to the concept of computer icons.
 - [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson): The co-creator of the GUI for the Apple Lisa, the creator of the original drawing software [MacPaint](https://en.wikipedia.org/wiki/MacPaint), and the creator of the [QuickDraw](https://en.wikipedia.org/wiki/QuickDraw) graphics library.
 - [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-creator of programmable bitmap graphics terminal [Blit](https://en.wikipedia.org/wiki/Blit_(computer_terminal)).
+- [John Carmack](https://en.wikipedia.org/wiki/John_Carmack): The video game creator of Doom who innovated in 3D graphics with the Carmack's reverse algorithm for shadow volumes.
 
 ## Computer Architecture / Theory
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): The creator of the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) also known as the "automatic machine" because of its ability to automate sets of mathematical operations at a time when computing process was all handled by humans. This important discovery led to the fundamental principles of modern computing directly inspiring most digital systems including the Von Neumann architecture.
