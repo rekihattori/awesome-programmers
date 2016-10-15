@@ -1,6 +1,6 @@
 # Awesome Programmers
 
-a list of the best engineers in the world
+A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Show them some respect
 
 ## Table of Contents
 
@@ -159,6 +159,7 @@ a list of the best engineers in the world
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
 - [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland): He is the creator of the revolutionary computer program [Sketchpad](https://en.wikipedia.org/wiki/Sketchpad), often known to be the first real-time graphical user interface and foundation for modern [Computer-aided design](https://en.wikipedia.org/wiki/Computer-aided_design) and the creator of whats considered to be the first virtual reality head-mounted system [The Sword of Damocles](https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)).
 - [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart): The creator of the revolutionary [NLS](https://en.wikipedia.org/wiki/NLS_(computer_system)) that employed the first practical use of [hypertext](https://en.wikipedia.org/wiki/Hypertext) and a precursor of the graphical user interface.
+- [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler): The co-creator of the [Gypsy word processor](https://en.wikipedia.org/wiki/Gypsy_(software)) with point and click ability, and the co-creator of "copy and paste" mechanism.
 
 ## Computer Architecture / Theory
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): The creator of the [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) also known as the "automatic machine" because of its ability to automate sets of mathematical operations at a time when computing process was all handled by humans. This important discovery led to the fundamental principles of modern computing directly inspiring most digital systems including the Von Neumann architecture.
