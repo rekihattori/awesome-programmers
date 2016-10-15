@@ -244,6 +244,7 @@ a list of the best engineers in the world
 
 ### Theory
 - [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky): The creator of the [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy), a containment heirarchy for classes of formal grammars.
+- [Seymour Ginsburg](https://en.wikipedia.org/wiki/Seymour_Ginsburg): The creator of the [Abstract family of languages Theory](https://en.wikipedia.org/wiki/Abstract_family_of_languages), and proved languages like ALGOL are context-free.
 
 ### Compilers
 - [Alon Zakai](https://github.com/kripken): The creator of [emscripten](https://github.com/kripken/emscripten), the LLVM to Javascript compiler.
