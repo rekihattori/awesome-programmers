@@ -297,6 +297,12 @@ A collection of software engineers that deserve to be in this collection. They a
 - [John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft): The co-author of the influential books [Introduction to Automata Theory, Languages, and Computation](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation) also known as the "Cinderella Book", "Data Structures and Algorithms" and "The Design and Analysis of Computer Algorithms".
 - [Fred Brooks](http://amturing.acm.org/award_winners/brooks_1002187.cfm): The author of the classic text [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) where [Brook's law](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law) was first coined.
 - [Erich Gamma](https://en.wikipedia.org/wiki/Erich_Gamma): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
+- [Ralph Johnson](https://en.wikipedia.org/wiki/Ralph_Johnson_(computer_scientist)): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
+- [Richard Helm](https://www.linkedin.com/in/richard-helm-43171b4): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
+- [John Vlissides](https://en.wikipedia.org/wiki/John_Vlissides): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
+
+
+
 
 ## Protocols / Standards
 - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): The creator of the World Wide Web, the creator of the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) data communication protocol, and the founder of the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) for internet standards.
