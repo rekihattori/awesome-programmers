@@ -99,6 +99,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) research project which is used for Android's speech recognition system, photo search and video recommendations.
 - [Judea Pearl](http://amturing.acm.org/award_winners/pearl_2658896.cfm): The creator of the highly important [Bayesian networks](https://en.wikipedia.org/wiki/Bayesian_network) probabilistic graphical model and the principal inference algorithms within the model. He is also the developer of a theory for [casual inference](https://en.wikipedia.org/wiki/Causality).
 - [Jacek Karpiński](https://en.wikipedia.org/wiki/Jacek_Karpi%C5%84ski): The co-creator of one of the first machine learning algorithms for character and image recognition.
+- [Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman): The creator of artificial intelligence based CAD technology, the contributor to AI research like [Debugging Almost-Right Plans](https://dspace.mit.edu/bitstream/handle/1721.1/7339/AIM-425.pdf?sequence=2) and dependency-based backtracking.
 
 ## Tools
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
