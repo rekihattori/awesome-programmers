@@ -273,6 +273,7 @@ A collection of software engineers that deserve to be in this collection. They a
 
 ## Competitions
 -[Petr Mitrichev](https://en.wikipedia.org/wiki/Petr_Mitrichev): The winner of multiple [TopCoder](https://en.wikipedia.org/wiki/TopCoder) competitions, took 100 wins in a single round of TopCoder, winner of Russian Code Cup, winner of Facebook Hacker Cup, winner of Yandex algorithm competition, and winner of [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam).
+- [Gennady Korotkevich](https://en.wikipedia.org/wiki/Gennady_Korotkevich): The six time gold medalist for the [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) programming competition, on the winning team for several years in [ACM International Collegiate Programming Contest](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), and multiple medal winner in the [CodeForces](https://en.wikipedia.org/wiki/Codeforces) contests.
 
 ## Writing
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
