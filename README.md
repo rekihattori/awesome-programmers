@@ -300,8 +300,9 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Ralph Johnson](https://en.wikipedia.org/wiki/Ralph_Johnson_(computer_scientist)): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
 - [Richard Helm](https://www.linkedin.com/in/richard-helm-43171b4): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
 - [John Vlissides](https://en.wikipedia.org/wiki/John_Vlissides): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
-
-
+- [Steve McConnell](https://en.wikipedia.org/wiki/Steve_McConnell): The author of popular software development book [Code Complete](https://en.wikipedia.org/wiki/Code_Complete).
+- [Andy Hunt](https://en.wikipedia.org/wiki/Andy_Hunt_(author)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
+- [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
 
 
 ## Protocols / Standards
