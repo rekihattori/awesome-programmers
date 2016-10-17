@@ -312,6 +312,8 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Andy Hunt](https://en.wikipedia.org/wiki/Andy_Hunt_(author)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
 - [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
 - [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin): The author software development technique book "Clean Code: A Handbook of Agile Software Craftsmanship".
+- [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers): The author of book series "Effective C++".
+- [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler): The co-author of book that popularized agile software development "Refactoring: Improving the Design of Existing Code"
 
 ## Protocols / Standards
 - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): The creator of the World Wide Web, the creator of the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) data communication protocol, and the founder of the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) for internet standards.
