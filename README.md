@@ -290,7 +290,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Ivan Metelsky](http://codeforces.com/profile/ivan.metelsky): The winner of and top finalist of Google Code Jam.
 - [Anudeep Nekkanti](https://www.quora.com/profile/Anudeep-Nekkanti): The team participant at [ACM International Collegiate Programming Contest](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), and winner of "Infosys Aspirations 2020 Programming" contest.
 
-## Writing
+## Books
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The author of several of the most important programming books including [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style), [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment).
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The author of [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language), the authoritative reference of the language.
@@ -311,6 +311,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Clifford Stein](https://en.wikipedia.org/wiki/Clifford_Stein): The co-author of influential book [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) also known as "CLRS" now considered to be the standard reference for algorithms.
 - [Andy Hunt](https://en.wikipedia.org/wiki/Andy_Hunt_(author)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
 - [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
+- [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin): The author software development technique book "Clean Code: A Handbook of Agile Software Craftsmanship".
 
 ## Protocols / Standards
 - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): The creator of the World Wide Web, the creator of the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) data communication protocol, and the founder of the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) for internet standards.
