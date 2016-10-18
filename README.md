@@ -5,16 +5,16 @@ A collection of software engineers that deserve to be in this collection. They a
 ## Table of Contents
 
 - [**Databases**](#databases)
-- **Tools**
-- **Programming Languages**
-- **Algorithms**
-- **Cryptography**
-- **Computer Architecture / Theory**
-- **Competitions**
-- **Writers**
-- **Protocols / Standards**
-- **Analysis / Verification**
-- **Miscellaneous**
+- [**Tools**](#tools)
+- [**Programming Languages**](#programming-languages)
+- [**Algorithms**](#algorithms)
+- [**Cryptography**](#cryptography)
+- [**Computer Architecture / Theory**](#computer-architecture-/-theory)
+- [**Competitions**](#competitions)
+- [**Writers**](#writers)
+- [**Protocols / Standards**](#protocols-/-standards)
+- [**Analysis / Verification**](#analysis-/-verification)
+- [**Miscellaneous**](#miscellaneous)
 
 ## Databases
 - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the [relational model](https://en.wikipedia.org/wiki/Relational_model) for database management, the theoretical basis for RDMS and co-creator of System R, the first implementation of the [SQL](https://en.wikipedia.org/wiki/SQL) database query language.
@@ -349,7 +349,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [E. Allen Emerson](http://amturing.acm.org/award_winners/emerson_1671460.cfm): The co-creator of the field for [Model-checking](https://en.wikipedia.org/wiki/Model_checking) that introduced a machine executed system of [temporal logic](https://en.wikipedia.org/wiki/Temporal_logic) to verify the computer program's correctness.
 - [Joseph Sifakis](http://amturing.acm.org/award_winners/sifakis_1701095.cfm): The co-creator of the field for [Model-checking](https://en.wikipedia.org/wiki/Model_checking) that introduced a machine executed system of [temporal logic](https://en.wikipedia.org/wiki/Temporal_logic) to verify the computer program's correctness.
 
-## Misc
+## Miscellaneous
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
 - [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet): The user with the most "reputation" points on Stack Overflow.
 - [Robert Floyd](http://amturing.acm.org/award_winners/floyd_3720707.cfm): The most cited author in Donald Knuth's "The Art of Computer Programming" series.
