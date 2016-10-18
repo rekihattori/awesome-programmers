@@ -125,7 +125,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Matei Zaharia](https://en.wikipedia.org/wiki/Matei_Zaharia): The creator of the cluster computing framework [Spark](https://en.wikipedia.org/wiki/Apache_Spark) and the cluster management system [Mesos](https://en.wikipedia.org/wiki/Apache_Mesos).
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
 - [James Duncan Davidson](https://en.wikipedia.org/wiki/James_Duncan_Davidson): The creator of the [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) Java HTTP web server
-- [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+- [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) and helped formalize concepts of [generic programming](https://en.wikipedia.org/wiki/Generic_programming).
 - [Stephen R. Bourne](https://en.wikipedia.org/wiki/Stephen_R._Bourne): The creator of the influential command-line interpreter [Bourne Shell](https://en.wikipedia.org/wiki/Bourne_shell).
 - [Nathan Marz](https://github.com/nathanmarz): The creator of the distributed stream processing framework [Storm](https://en.wikipedia.org/wiki/Storm_(event_processor)).
 - [Ryan Dahl](https://github.com/ry): The creator of the [Node.js](https://en.wikipedia.org/wiki/Node.js) Javascript runtime interpreter
