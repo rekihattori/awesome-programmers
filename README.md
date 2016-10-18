@@ -5,7 +5,7 @@ A collection of software engineers that deserve to be in this collection. They a
 ## Table of Contents
 
 - [**Databases**](#databases)
-- [**Algorithms / Datatypes**](#algorithms-/-datatypes)
+- [**Algorithms / Datatypes**](#algorithms--datatypes)
 - [**Cryptography**](#cryptography)
 - [**Artificial Intelligence**](#artificial-intelligence)
 - [**Tools**](#tools)
@@ -15,11 +15,11 @@ A collection of software engineers that deserve to be in this collection. They a
   - [**Theory**](#theory)
   - [**Compilers**](#compilers)
 - [**Computer Graphics**](#computer-graphics)
-- [**Computer Architecture / Theory**](#computer-architecture-/-theory)
+- [**Computer Architecture / Theory**](#computer-architecture--theory)
 - [**Competitions**](#competitions)
 - [**Books**](#books)
-- [**Protocols / Standards**](#protocols-/-standards)
-- [**Analysis / Verification**](#analysis-/-verification)
+- [**Protocols / Standards**](#protocols--standards)
+- [**Analysis / Verification**](#analysis--verification)
 - [**Miscellaneous**](#miscellaneous)
 
 ## Databases
