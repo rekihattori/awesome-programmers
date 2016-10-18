@@ -16,10 +16,10 @@ A collection of software engineers that deserve to be in this collection. They a
   - [**Compilers**](#compilers)
 - [**Computer Graphics**](#computer-graphics)
 - [**Computer Architecture / Theory**](#computer-architecture--theory)
-- [**Competitions**](#competitions)
-- [**Books**](#books)
 - [**Protocols / Standards**](#protocols--standards)
 - [**Analysis / Verification**](#analysis--verification)
+- [**Books**](#books)
+- [**Competitions**](#competitions)
 - [**Miscellaneous**](#miscellaneous)
 
 ## Databases
