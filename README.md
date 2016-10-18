@@ -138,6 +138,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Igor Sysoev](https://en.wikipedia.org/wiki/Igor_Sysoev): The creator of popular web server [Nginx](https://en.wikipedia.org/wiki/Nginx).
 - [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
+- [Jamie Zawinski](https://en.wikipedia.org/wiki/Jamie_Zawinski): One of the original developers of the [Mozilla](https://en.wikipedia.org/wiki/Mozilla) browser and open-source community, and one of the early developers of the [Netscape Navigator browser](https://en.wikipedia.org/wiki/Netscape_Navigator).
 - [Michael Burrows](https://en.wikipedia.org/wiki/Michael_Burrows): The co-creator of the lock service for distributed systems [Chubby](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf).
 - [Mark Otto](https://github.com/mdo): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 - [Jacob Thornton](https://github.com/fat): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
