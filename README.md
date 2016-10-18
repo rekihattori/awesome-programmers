@@ -167,21 +167,21 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 
 ### Development Frameworks
 - [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson): The creator of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), the web application framework
-- [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) javascript framework.
+- [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) Javascript framework.
 - [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Mark Otto](https://github.com/mdo): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 - [Jacob Thornton](https://github.com/fat): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
-- [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) javascript library
-- [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) javascript Library
-- [Miško Hevery](https://github.com/mhevery): The creator of the javascript web application framework [AngularJS](https://en.wikipedia.org/wiki/AngularJS).
+- [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) Javascript library
+- [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) Javascript Library
+- [Miško Hevery](https://github.com/mhevery): The creator of the Javascript web application framework [AngularJS](https://en.wikipedia.org/wiki/AngularJS).
 - [Ben Christensen](https://github.com/benjchristensen): The creator of the asynchronous programming framework [RxJava](https://github.com/ReactiveX/RxJava) and the ReactiveX suite.
 - [Armin Ronacher](https://github.com/mitsuhiko): The creator of the micro web application framework for python [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)).
-- [Geoff Schmidt](https://github.com/gschmidt): The co-creator of popular javascript application development environment [meteor](https://github.com/meteor/meteor).
-- [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time javascript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
+- [Geoff Schmidt](https://github.com/gschmidt): The co-creator of popular Javascript application development environment [meteor](https://github.com/meteor/meteor).
+- [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time Javascript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
 - [Guillaume Bort](https://github.com/guillaumebort): The creator of the web application framework for Scala and Java [Play](https://en.wikipedia.org/wiki/Play_Framework).
 - [Taylor Otwell](https://github.com/taylorotwell): The creator of the PHP web application framework [Laravel](https://en.wikipedia.org/wiki/Laravel).
-- [Yehuda Katz](https://github.com/wycats): The co-creator of the javascript application development framework [Ember.js](https://en.wikipedia.org/wiki/Ember.js), the creator of javascript templating tool [handlebars](http://handlebarsjs.com/), the co-creator of package management system for ruby [bundler](https://github.com/bundler/bundler), and once a member of core development teams for "Jquery" and "Ruby on Rails".
+- [Yehuda Katz](https://github.com/wycats): The co-creator of the Javascript application development framework [Ember.js](https://en.wikipedia.org/wiki/Ember.js), the creator of Javascript templating tool [handlebars](http://handlebarsjs.com/), the co-creator of package management system for ruby [bundler](https://github.com/bundler/bundler), and once a member of core development teams for "Jquery" and "Ruby on Rails".
 
 ## Programming Languages
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The creator of the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language, one of the most influential languages of all time.
