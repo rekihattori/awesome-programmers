@@ -154,6 +154,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Ben Reed](https://www.linkedin.com/in/ben-reed-5b414?authType=name&authToken=JGwz&trk=prof-pub-cc-name): The distributed key-value store primarily used as Hadoop's configuration and synchronization service [Zookeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper).
 - [Lars Rasmussen](https://en.wikipedia.org/wiki/Lars_Rasmussen_(software_developer)): The co-creator of the original system for [Google Maps](https://en.wikipedia.org/wiki/Google_Maps).
 - [Jack Dongarra](https://en.wikipedia.org/wiki/Jack_Dongarra): The co-creator of linear algebra tool [BLAS (Basic Linear Algebra Subprograms)](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms), the co-creator of the parallel computing message system [MPI (message passing interface)](https://en.wikipedia.org/wiki/Message_Passing_Interface), the creator of ranking system for powerful computers [TOP500](https://en.wikipedia.org/wiki/TOP500) and co-creator of linear algebra library [ATLAS](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software).
+- [Travis Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant): The creator of [NumPy](https://en.wikipedia.org/wiki/NumPy), a package for numerical computing in Python.
 
 ### Operating Systems
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
@@ -236,7 +237,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 
 ### Theory
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
-- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
+- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Smalltalk language originally used for graphical interfaces.
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [Tony Hoare](http://amturing.acm.org/award_winners/hoare_4622167.cfm): The author of influential paper "An axiomatic basis for computer programming", and the creator of the influential language [Communicating sequential processes](https://en.wikipedia.org/wiki/Communicating_sequential_processes) for describing patterns of interaction in concurrent systems.
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing and often cited as the first functional programming language.
