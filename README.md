@@ -1,6 +1,6 @@
 # Awesome Programmers
 
-A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Show them some respect
+A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Lets give them some respect
 
 ## Table of Contents
 
