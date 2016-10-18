@@ -163,6 +163,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Jun Rao](https://github.com/junrao): The creator of the high-throughput message broker [Kafka](https://en.wikipedia.org/wiki/Apache_Kafka).
 - [Neha Narkhede](https://github.com/nehanarkhede): The creator of the high-throughput message broker [Kafka](https://en.wikipedia.org/wiki/Apache_Kafka).
 - [Ben Reed](https://www.linkedin.com/in/ben-reed-5b414?authType=name&authToken=JGwz&trk=prof-pub-cc-name): The distributed key-value store primarily used as Hadoop's configuration and synchronization service [Zookeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper).
+- [Yehuda Katz](https://github.com/wycats): The co-creator of the javascript application development framework [Ember.js](https://en.wikipedia.org/wiki/Ember.js), the creator of javascript templating tool [handlebars](http://handlebarsjs.com/), the co-creator of package management system for ruby [bundler](https://github.com/bundler/bundler), and once a member of core development teams for "Jquery" and "Ruby on Rails".
 - [Russ Cox](https://github.com/rsc): The core developer of the [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) operating system, and the core developer of the [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) programming language.
 
 ### Computer Graphics
