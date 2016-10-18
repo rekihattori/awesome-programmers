@@ -135,6 +135,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Erich Gamma](https://en.wikipedia.org/wiki/Erich_Gamma): The co-creator of popular code testing framework for Java [JUnit](https://en.wikipedia.org/wiki/JUnit).
 - [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck): The co-creator of [SUnit](https://en.wikipedia.org/wiki/SUnit) unit testing framework for Smalltalk, and co-creator of popular code testing framework for Java [JUnit](https://en.wikipedia.org/wiki/JUnit).
 - [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham): The creator of the [wiki](https://en.wikipedia.org/wiki/Wiki), the first web content-collaboration tool.
+- [Igor Sysoev](https://en.wikipedia.org/wiki/Igor_Sysoev): The creator of popular web server [Nginx](https://en.wikipedia.org/wiki/Nginx).
 - [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Michael Burrows](https://en.wikipedia.org/wiki/Michael_Burrows): The co-creator of the lock service for distributed systems [Chubby](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf).
