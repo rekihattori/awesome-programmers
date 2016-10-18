@@ -278,6 +278,7 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Juan Wajnerman](https://github.com/waj): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
 - [Andrey Breslav](https://github.com/abreslav): The co-creator of the JVM run, statically typed programming language [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)).
 - [Slava Pestov](https://github.com/slavapestov): The creator of [stack-oriented](https://en.wikipedia.org/wiki/Stack-oriented_programming_language) programming language [Factor](https://en.wikipedia.org/wiki/Factor_(programming_language)) and a member of the core team for [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)).
+- [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)): The creator of the programming language [A+](https://en.wikipedia.org/wiki/A%2B_(programming_language)) and the creator of the programming language [K](https://en.wikipedia.org/wiki/K_(programming_language)).
 
 ### Theory
 - [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky): The creator of the [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy), a containment heirarchy for classes of formal grammars.
