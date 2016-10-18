@@ -234,7 +234,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 
 ### Theory
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
-- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Small Talk language originally used for graphical interfaces.
+- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay): He helped pioneer the idea of object-oriented programming and helped create the Smalltalk language originally used for graphical interfaces.
 - [Maurice Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes): The designer of EDSAC, the first computer with an internally stored program.  Also helped define concepts like microprogramming, symbolic labels and macros.
 - [Tony Hoare](http://amturing.acm.org/award_winners/hoare_4622167.cfm): The author of influential paper "An axiomatic basis for computer programming", and the creator of the influential language [Communicating sequential processes](https://en.wikipedia.org/wiki/Communicating_sequential_processes) for describing patterns of interaction in concurrent systems.
 - [Allen Newell](https://en.wikipedia.org/wiki/Allen_Newell): Along with Herbert Simon, he helped create Information Processing Language (IPL) which introduced the concept of list processing and often cited as the first functional programming language.
