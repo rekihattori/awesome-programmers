@@ -135,6 +135,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham): The creator of the [wiki](https://en.wikipedia.org/wiki/Wiki), the first web content-collaboration tool.
 - [Igor Sysoev](https://en.wikipedia.org/wiki/Igor_Sysoev): The creator of popular web server [Nginx](https://en.wikipedia.org/wiki/Nginx).
 - [Jamie Zawinski](https://en.wikipedia.org/wiki/Jamie_Zawinski): One of the original developers of the [Mozilla](https://en.wikipedia.org/wiki/Mozilla) browser and open-source community, and one of the early developers of the [Netscape Navigator browser](https://en.wikipedia.org/wiki/Netscape_Navigator).
+- [Daniel J. Bernstein](https://en.wikipedia.org/wiki/Daniel_J._Bernstein): The creator of a mail transfer agent [qmail](https://en.wikipedia.org/wiki/Qmail) with an emphasis on security, and the creator of the highly secure DNS server [djbdns](https://en.wikipedia.org/wiki/Djbdns).
 - [Michael Burrows](https://en.wikipedia.org/wiki/Michael_Burrows): The co-creator of the lock service for distributed systems [Chubby](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf).
 - [Robby Russell](https://github.com/robbyrussell): The creator of popular shell framework [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 - [Cheng Zhao](https://github.com/zcbenz): The creator of the popular desktop application development environment [electron](https://github.com/electron/electron).
