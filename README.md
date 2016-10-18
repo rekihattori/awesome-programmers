@@ -350,3 +350,5 @@ A collection of software engineers that deserve to be in this collection. They a
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
 - [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet): The user with the most "reputation" points on Stack Overflow.
 - [Robert Floyd](http://amturing.acm.org/award_winners/floyd_3720707.cfm): The most cited author in Donald Knuth's "The Art of Computer Programming" series.
+- [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris): The creator of the internet's first computer worm [Morris Worm](https://en.wikipedia.org/wiki/Morris_worm).
+
