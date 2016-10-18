@@ -175,7 +175,8 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) Javascript library
 - [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) Javascript Library
 - [Miško Hevery](https://github.com/mhevery): The creator of the Javascript web application framework [AngularJS](https://en.wikipedia.org/wiki/AngularJS).
-- [Ben Christensen](https://github.com/benjchristensen): The creator of the asynchronous programming framework [RxJava](https://github.com/ReactiveX/RxJava) and the ReactiveX suite.
+- [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)): The creator of the asynchronous programming framework [Reactive extensions](https://github.com/Reactive-Extensions).
+- [Ben Christensen](https://github.com/benjchristensen): The creator of the asynchronous programming framework [RxJava](https://github.com/ReactiveX/RxJava).
 - [Armin Ronacher](https://github.com/mitsuhiko): The creator of the micro web application framework for python [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)).
 - [Geoff Schmidt](https://github.com/gschmidt): The co-creator of popular Javascript application development environment [meteor](https://github.com/meteor/meteor).
 - [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time Javascript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
