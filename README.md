@@ -21,7 +21,6 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [**Protocols / Standards**](#protocols--standards)
 - [**Analysis / Verification**](#analysis--verification)
 - [**Books**](#books)
-- [**Competitions**](#competitions)
 - [**Miscellaneous**](#miscellaneous)
 
 ## Databases
