@@ -4,7 +4,7 @@ A collection of software engineers that deserve to be in this collection. They a
 
 ## Table of Contents
 
-- **Databases**
+- [**Databases**](#Databases)
 - **Tools**
 - **Programming Languages**
 - **Algorithms**
