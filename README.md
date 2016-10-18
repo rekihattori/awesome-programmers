@@ -1,6 +1,8 @@
 # Awesome Programmers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Lets give them some respect
+A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Lets give them some respect.
+
+Undoubtedly, there are some great candidates that I've overlooked.  If you see a programmer, active today or from the past, that you think should be included submit a new issue. 
 
 ## Table of Contents
 
