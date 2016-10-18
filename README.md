@@ -2,7 +2,7 @@
 
 A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Lets give them some respect.
 
-Undoubtedly, there are some great candidates that I've overlooked.  If you see a programmer, active today or from the past, that you think should be included submit a new issue. 
+Undoubtedly, there are some great candidates that I've overlooked.  If you see a programmer, active today or from the past, that you think should be included submit a new issue.
 
 ## Table of Contents
 
@@ -21,7 +21,6 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [**Protocols / Standards**](#protocols--standards)
 - [**Analysis / Verification**](#analysis--verification)
 - [**Books**](#books)
-- [**Competitions**](#competitions)
 - [**Miscellaneous**](#miscellaneous)
 
 ## Databases
@@ -113,6 +112,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 
 ## Tools
 - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): The creator of the first web browser, and the first web server [CERN httpd](https://en.wikipedia.org/wiki/CERN_httpd)
+- [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman): The creator of the [GNU](https://en.wikipedia.org/wiki/GNU) open source operating system, co-creator of the original [Emacs](https://en.wikipedia.org/wiki/GNU_Emacs) text-editor also known as "GNUMACS", and the creator of the popular debugging tool [GDB (GNU)](https://en.wikipedia.org/wiki/GNU_Debugger)
 - [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen): The co-creator of the first widely used modern web browser [Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser)) popularizing the world wide web.
 - [Robert McCool](https://en.wikipedia.org/wiki/Robert_McCool): The creator of [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The co-creator of the operating system, laser printer software, the first Ethernet and the [Bravo WYSIWYG](https://en.wikipedia.org/wiki/Bravo_(software)) text editor for the first personal computer [Xerox Alto](https://en.wikipedia.org/wiki/Xerox_Alto).
@@ -253,6 +253,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): The inventor of the [A-0 System](https://en.wikipedia.org/wiki/A-0_System), often considered as the first [compiler](https://en.wikipedia.org/wiki/Compiler) but functioned as a [loader](https://en.wikipedia.org/wiki/Loader_(computing)) for [Assembly](https://en.wikipedia.org/wiki/Assembly_language) resulting to the development of higher level programming languages like [COBOL](https://en.wikipedia.org/wiki/COBOL).
 - [John Backus](https://en.wikipedia.org/wiki/John_Backus): The co-creator of the first high-level compiled programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler, often credited as being the first [optimizing compiler](https://en.wikipedia.org/wiki/Optimizing_compiler) and fully complete compiler.
 - [Frances E. Allen](http://amturing.acm.org/award_winners/allen_1012327.cfm): The author of the paper "Program Optimization" that laid the basis for systematic analysis of computer programs, the author of "Control Flow Analysis" that uses intervals to analyze data flow, and the co-author of the paper "A Catalog of Optimizing Transformations" which is one of the main analysis strategies used in optimizing compilers.
+- [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman): The creator of the [GCC (GNU Compiler Collection)](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) system which has been adopted as the standard compiler system by many operating systems.
 - [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)): The creator of the first [assembler](https://en.wikipedia.org/wiki/Assembly_language#Assembler), translating assembly code into byte code for the first mass-produced computer that he also created, the [IBM 701](https://en.wikipedia.org/wiki/IBM_701).
 - [Lois Haibt](https://en.wikipedia.org/wiki/Lois_Haibt): The co-creator of the first high-level compiled programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler.
 - [Alon Zakai](https://github.com/kripken): The creator of [emscripten](https://github.com/kripken/emscripten), the LLVM to Javascript compiler.
@@ -355,6 +356,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler): The co-author of book that popularized agile software development "Refactoring: Improving the Design of Existing Code"
 
 ## Miscellaneous
+- [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman): The creator of the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project) for the collection and development of free software through the use of its friendly [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): He wrote the original program to read "Hello World!".
 - [Jon Skeet](http://stackoverflow.com/users/22656/jon-skeet): The user with the most "reputation" points on Stack Overflow.
 - [Robert Floyd](http://amturing.acm.org/award_winners/floyd_3720707.cfm): The most cited author in Donald Knuth's "The Art of Computer Programming" series.
