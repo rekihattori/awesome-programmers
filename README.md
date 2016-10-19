@@ -169,6 +169,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Russ Cox](https://github.com/rsc): The core developer of the [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) operating system, and the core developer of the [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) programming language.
 
 ### Development Frameworks
+- [Rod Johnson](https://en.wikipedia.org/wiki/Rod_Johnson_(programmer)): The creator of the popular web application development framework for Java [Spring](https://en.wikipedia.org/wiki/Spring_Framework).
 - [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson): The creator of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), the web application framework
 - [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) Javascript framework.
 - [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
