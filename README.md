@@ -156,6 +156,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Lars Rasmussen](https://en.wikipedia.org/wiki/Lars_Rasmussen_(software_developer)): The co-creator of the original system for [Google Maps](https://en.wikipedia.org/wiki/Google_Maps).
 - [Jack Dongarra](https://en.wikipedia.org/wiki/Jack_Dongarra): The co-creator of linear algebra tool [BLAS (Basic Linear Algebra Subprograms)](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms), the co-creator of the parallel computing message system [MPI (message passing interface)](https://en.wikipedia.org/wiki/Message_Passing_Interface), the creator of ranking system for powerful computers [TOP500](https://en.wikipedia.org/wiki/TOP500) and co-creator of linear algebra library [ATLAS](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software).
 - [Travis Oliphant](https://en.wikipedia.org/wiki/Travis_Oliphant): The creator of [NumPy](https://en.wikipedia.org/wiki/NumPy), a package for numerical computing in Python.
+- [Wes McKinney](https://en.wikipedia.org/wiki/Wes_McKinney): The creator of the [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) data manipulation library.
 
 ### Operating Systems
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The co-creator of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system family that inspired the architecture of many modern operating systems like Linux.
