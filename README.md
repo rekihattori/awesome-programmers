@@ -136,7 +136,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Mike Cafarella](https://en.wikipedia.org/wiki/Mike_Cafarella): The co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of the machine learning library [Tensorflow](https://en.wikipedia.org/wiki/TensorFlow).
 - [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy): The creator of the Unix text editor [vi](https://en.wikipedia.org/wiki/Vi), the creator of the [C shell](https://en.wikipedia.org/wiki/C_shell) command-line interpreter, one of the earliest developers of [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) and co-creator of [NFS](https://en.wikipedia.org/wiki/Network_File_System) Version 2.
-- [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of JavaScript engine [V8](https://en.wikipedia.org/wiki/V8_(Javascript_engine)).
+- [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of JavaScript engine [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)).
 - [Matei Zaharia](https://en.wikipedia.org/wiki/Matei_Zaharia): The creator of the cluster computing framework [Spark](https://en.wikipedia.org/wiki/Apache_Spark) and the cluster management system [Mesos](https://en.wikipedia.org/wiki/Apache_Mesos).
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
 - [James Duncan Davidson](https://en.wikipedia.org/wiki/James_Duncan_Davidson): The creator of the [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) Java HTTP web server
