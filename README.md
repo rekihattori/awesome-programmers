@@ -19,6 +19,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [**Computer Graphics**](#computer-graphics)
 - [**Computer Architecture / Theory**](#computer-architecture--theory)
 - [**Protocols / Standards**](#protocols--standards)
+- [**Development Processes**](#development-processes)
 - [**Analysis / Verification**](#analysis--verification)
 - [**Books**](#books)
 - [**Miscellaneous**](#miscellaneous)
@@ -341,13 +342,6 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Nathan Marz](https://github.com/nathanmarz): The author of the data-processing [Lambda architecture](https://en.wikipedia.org/wiki/Lambda_architecture) designed to use stream-processing or batch processing to handle data at a large scale.
 - [Eric Brewer](https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)): The original writer of the [ CAP theorem ](https://en.wikipedia.org/wiki/CAP_theorem) stating that a distributed computer system cannot simultaneously provide the guarantees Consistency, Availability and Partition Tolerance.
 
-## Development Processes
-- [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck): The co-creator of software development methodology [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming) to improve overall software quality, the co-founder of the "Agile Manifesto" and the agile software development paradigm, and credited to be the founder of [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
-- [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham): The co-creator of software development methodology [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming) to improve overall software quality.
-- [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)): The co-founder of the "Agile Manifesto" and coined the phrases "DRY" [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) which emphasizes to reduce the repetition of code or data in software.
-- [Ivar Jacobson](https://en.wikipedia.org/wiki/Ivar_Jacobson): The creator of the "Objectory" software process directly leading to the invention of [RUP (Rational Unified Proces)](https://en.wikipedia.org/wiki/Rational_Unified_Process) for iterative
-  software development.
-
 ## Protocols / Standards
 - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): The creator of the World Wide Web, the creator of the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) data communication protocol, and the founder of the [World Wide Web Consortium](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) for internet standards.
 - [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf): The co-creator of the fundamental design principles for computer networking [Transmission Control Protocol and Internet Protocol (TCP/IP)](https://en.wikipedia.org/wiki/Internet_protocol_suite) in a profound paper "A Protocol for Packet Network Intercommunication" essentially outlining the architecture of the internet.
@@ -358,6 +352,13 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The creator of the [two-phase commit protocol](https://en.wikipedia.org/wiki/Two-phase_commit_protocol) which coordinates the processes in a distributed atomic transaction on whether to commit or rollback the transaction.
 - [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-designer of the character encoding standard [UTF-8](https://en.wikipedia.org/wiki/UTF-8), capable of encoding all possible characters and is the most widely used encoding for HTML files.
 - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): The co-designer of the character encoding standard [UTF-8](https://en.wikipedia.org/wiki/UTF-8), capable of encoding all possible characters and is the most widely used encoding for HTML files.
+
+## Development Processes
+- [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck): The co-creator of software development methodology [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming) to improve overall software quality, the co-founder of the "Agile Manifesto" and the agile software development paradigm, and credited to be the founder of [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
+- [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham): The co-creator of software development methodology [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming) to improve overall software quality.
+- [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)): The co-founder of the "Agile Manifesto" and coined the phrases "DRY" [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) which emphasizes to reduce the repetition of code or data in software.
+- [Ivar Jacobson](https://en.wikipedia.org/wiki/Ivar_Jacobson): The creator of the "Objectory" software process directly leading to the invention of [RUP (Rational Unified Proces)](https://en.wikipedia.org/wiki/Rational_Unified_Process) for iterative
+  software development.
 
 ## Analysis / Verification
 - [James H. Wilkinson](https://en.wikipedia.org/wiki/James_H._Wilkinson): Helped facilitate the use of the high-speed digital computer with numerical analysis and the developer of the "backward" [error analysis](https://en.wikipedia.org/wiki/Error_analysis_(mathematics)) for algorithms.
