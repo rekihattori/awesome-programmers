@@ -4,4 +4,4 @@ rvm:
 before_script:
     - gem install awesome_bot
 script:
-    - awesome_bot README.md --allow-dupe --white-list lean.quantconnect
+    - awesome_bot README.md -- allow 301,403 --allow-dupe --white-list lean.quantconnect
