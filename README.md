@@ -142,14 +142,14 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Mike Cafarella](https://en.wikipedia.org/wiki/Mike_Cafarella): The co-creator of the highly scalable web crawler [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch).
 - [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)): The co-creator of the machine learning library [Tensorflow](https://en.wikipedia.org/wiki/TensorFlow).
 - [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy): The creator of the Unix text editor [vi](https://en.wikipedia.org/wiki/Vi), the creator of the [C shell](https://en.wikipedia.org/wiki/C_shell) command-line interpreter, one of the earliest developers of [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) and co-creator of [NFS](https://en.wikipedia.org/wiki/Network_File_System) Version 2.
-- [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of Javascript engine [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)).
+- [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of JavaScript engine [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)).
 - [Matei Zaharia](https://en.wikipedia.org/wiki/Matei_Zaharia): The creator of the cluster computing framework [Spark](https://en.wikipedia.org/wiki/Apache_Spark) and the cluster management system [Mesos](https://en.wikipedia.org/wiki/Apache_Mesos).
 - [Jason van Zyl](https://github.com/jvanzyl): The creator of [Maven](https://en.wikipedia.org/wiki/Apache_Maven) build automation tool for JVM environments
 - [James Duncan Davidson](https://en.wikipedia.org/wiki/James_Duncan_Davidson): The creator of the [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat) Java HTTP web server
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): The primary designer and implementer of the C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) and helped formalize concepts of [generic programming](https://en.wikipedia.org/wiki/Generic_programming).
 - [Stephen R. Bourne](https://en.wikipedia.org/wiki/Stephen_R._Bourne): The creator of the influential command-line interpreter [Bourne Shell](https://en.wikipedia.org/wiki/Bourne_shell).
 - [Nathan Marz](https://github.com/nathanmarz): The creator of the distributed stream processing framework [Storm](https://en.wikipedia.org/wiki/Storm_(event_processor)).
-- [Ryan Dahl](https://github.com/ry): The creator of the [Node.js](https://en.wikipedia.org/wiki/Node.js) Javascript runtime interpreter
+- [Ryan Dahl](https://github.com/ry): The creator of the [Node.js](https://en.wikipedia.org/wiki/Node.js) JavaScript runtime interpreter
 - [Solomon Hykes](https://github.com/shykes): The creator of [Docker](https://en.wikipedia.org/wiki/Docker_(software)), the system virtualization tool
 - [Erich Gamma](https://en.wikipedia.org/wiki/Erich_Gamma): The co-creator of popular code testing framework for Java [JUnit](https://en.wikipedia.org/wiki/JUnit).
 - [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck): The co-creator of [SUnit](https://en.wikipedia.org/wiki/SUnit) unit testing framework for Smalltalk, and co-creator of popular code testing framework for Java [JUnit](https://en.wikipedia.org/wiki/JUnit).
@@ -193,22 +193,22 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 ### Development Frameworks
 - [Rod Johnson](https://en.wikipedia.org/wiki/Rod_Johnson_(programmer)): The creator of the popular web application development framework for Java [Spring](https://en.wikipedia.org/wiki/Spring_Framework).
 - [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson): The creator of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), the web application framework
-- [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) Javascript framework.
+- [Jordan Walke](https://github.com/jordwalke): The original author of [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) JavaScript framework.
 - [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison): The co-creator of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web framework.
 - [Mark Otto](https://github.com/mdo): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 - [Jacob Thornton](https://github.com/fat): The co-creator of the front-end web framework [Twitter Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
-- [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) Javascript library
-- [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [Jquery](https://en.wikipedia.org/wiki/JQuery) Javascript Library
-- [Miško Hevery](https://github.com/mhevery): The creator of the Javascript web application framework [AngularJS](https://en.wikipedia.org/wiki/AngularJS).
+- [Mike Bostock](https://en.wikipedia.org/wiki/Mike_Bostock): The creator of the [D3](https://en.wikipedia.org/wiki/D3.js) JavaScript library
+- [John Resig](https://en.wikipedia.org/wiki/John_Resig): The creator of the [jQuery](https://en.wikipedia.org/wiki/JQuery) JavaScript Library
+- [Miško Hevery](https://github.com/mhevery): The creator of the JavaScript web application framework [AngularJS](https://en.wikipedia.org/wiki/AngularJS).
 - [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)): The creator of the asynchronous programming framework [Reactive extensions](https://github.com/Reactive-Extensions).
 - [Ben Christensen](https://github.com/benjchristensen): The creator of the asynchronous programming framework [RxJava](https://github.com/ReactiveX/RxJava).
 - [Armin Ronacher](https://github.com/mitsuhiko): The creator of the micro web application framework for python [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework)).
-- [Geoff Schmidt](https://github.com/gschmidt): The co-creator of popular Javascript application development environment [meteor](https://github.com/meteor/meteor).
-- [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time Javascript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
+- [Geoff Schmidt](https://github.com/gschmidt): The co-creator of popular JavaScript application development environment [meteor](https://github.com/meteor/meteor).
+- [Guillermo Rauch](https://github.com/rauchg): The creator of the real-time JavaScript application framework [Socket.io](https://en.wikipedia.org/wiki/Socket.IO).
 - [Guillaume Bort](https://github.com/guillaumebort): The creator of the web application framework for Scala and Java [Play](https://en.wikipedia.org/wiki/Play_Framework).
 - [Taylor Otwell](https://github.com/taylorotwell): The creator of the PHP web application framework [Laravel](https://en.wikipedia.org/wiki/Laravel).
-- [Yehuda Katz](https://github.com/wycats): The co-creator of the Javascript application development framework [Ember.js](https://en.wikipedia.org/wiki/Ember.js), the creator of Javascript templating tool [handlebars](http://handlebarsjs.com/), the co-creator of package management system for ruby [bundler](https://github.com/bundler/bundler), and once a member of core development teams for "Jquery" and "Ruby on Rails".
+- [Yehuda Katz](https://github.com/wycats): The co-creator of the JavaScript application development framework [Ember.js](https://en.wikipedia.org/wiki/Ember.js), the creator of JavaScript templating tool [handlebars](http://handlebarsjs.com/), the co-creator of package management system for ruby [bundler](https://github.com/bundler/bundler), and once a member of core development teams for "jQuery" and "Ruby on Rails".
 
 ## Programming Languages
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The creator of the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language, one of the most influential languages of all time.
@@ -227,7 +227,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup): The creator of [C++](https://en.wikipedia.org/wiki/C%2B%2B), one of the most popular programming languages of all time.
 - [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall): The creator of the [Perl](https://en.wikipedia.org/wiki/Perl) dynamic programming language popularized by its unsurpassed regular expression and string parsing abilities.
 - [Don Syme](https://en.wikipedia.org/wiki/Don_Syme): The creator of the [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) programming language, and the creator of generics in [.NET](https://en.wikipedia.org/wiki/.NET_Framework) framework.
-- [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg): One of the original authors of [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language)) Pascal dialet programming toolkit and the [Typescript](https://en.wikipedia.org/wiki/TypeScript) Javascript superset language.
+- [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg): One of the original authors of [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language)) Pascal dialet programming toolkit and the [Typescript](https://en.wikipedia.org/wiki/TypeScript) JavaScript superset language.
 - [Joe Armstrong](https://github.com/joearms): The creator of the [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) functional programming language known for being well suited for systems that are distributed, fault tolerant, and concurrent.
 - [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-creator of the [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) programming language.
 - [Alan Cooper](https://en.wikipedia.org/wiki/Alan_Cooper): The creator of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic), a user-friendly programming language for Microsoft applications.
@@ -235,7 +235,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Thomas E. Kurtz](https://en.wikipedia.org/wiki/Thomas_E._Kurtz): The co-creator of the [Basic](https://en.wikipedia.org/wiki/BASIC) Programming Language.
 - [Brad Cox](https://en.wikipedia.org/wiki/Brad_Cox): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
 - [Tom Love](): The co-creator of [Objective-C](https://en.wikipedia.org/wiki/Objective-C) Programming Language
-- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [Javascript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
+- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich): The creator of [JavaScript](https://en.wikipedia.org/wiki/JavaScript) Programming Language
 - [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum): The creator of the [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) programming language.
 - [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)): The co-creator of the specifications for [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) programming language.
 - [Grady Booch](https://en.wikipedia.org/wiki/Grady_Booch): The co-creator of the [Unified Modeling Language (UML)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) popularly used to provide a standard visual notation for system designs.
@@ -255,9 +255,9 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Martin Odersky](https://en.wikipedia.org/wiki/Martin_Odersky): The creator of the [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language)) functional / object-oriented programming language for the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine).
 - [Xavier Leroy](https://en.wikipedia.org/wiki/Xavier_Leroy): The co-creator of the [OCaml](https://en.wikipedia.org/wiki/OCaml) programming language that has functional and object oriented properties to its design.
 - [Graydon Hoare](https://github.com/graydon): The original creator of the [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) low-level systems programming language.
-- [Jeremy Ashkenas](https://github.com/jashkenas): The creator of the Javascript transcompiled programming language [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript).
+- [Jeremy Ashkenas](https://github.com/jashkenas): The creator of the JavaScript transcompiled programming language [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript).
 - [Jose Valim](https://github.com/josevalim): The creator of the functional concurrent programming language [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) built on top of BEAM Erlang virtual machine.
-- [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of the [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language)) programming language that transcompiles into Javascript.
+- [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of the [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language)) programming language that transcompiles into JavaScript.
 - [Jeff Bezanson](https://en.wikipedia.org/wiki/Jeff_Bezanson): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
 - [Stefan Karpinski](https://en.wikipedia.org/wiki/Stefan_Karpinski): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
 - [Ary Borenszweig](https://github.com/asterite): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
@@ -265,6 +265,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Andrey Breslav](https://github.com/abreslav): The co-creator of the JVM run, statically typed programming language [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)).
 - [Slava Pestov](https://github.com/slavapestov): The creator of [stack-oriented](https://en.wikipedia.org/wiki/Stack-oriented_programming_language) programming language [Factor](https://en.wikipedia.org/wiki/Factor_(programming_language)) and a member of the core team for [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)).
 - [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)): The creator of the programming language [A+](https://en.wikipedia.org/wiki/A%2B_(programming_language)) and the creator of the programming language [K](https://en.wikipedia.org/wiki/K_(programming_language)).
+- [John Ousterhout](https://en.wikipedia.org/wiki/John_Ousterhout): The creator of the programming language [Tcl](https://en.wikipedia.org/wiki/Tcl).
 
 ### Theory
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
@@ -291,7 +292,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman): The creator of the [GCC (GNU Compiler Collection)](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) system which has been adopted as the standard compiler system by many operating systems.
 - [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)): The creator of the first [assembler](https://en.wikipedia.org/wiki/Assembly_language#Assembler), translating assembly code into byte code for the first mass-produced computer that he also created, the [IBM 701](https://en.wikipedia.org/wiki/IBM_701).
 - [Lois Haibt](https://en.wikipedia.org/wiki/Lois_Haibt): The co-creator of the first high-level compiled programming language [FORTRAN](https://en.wikipedia.org/wiki/Fortran) and its compiler.
-- [Alon Zakai](https://github.com/kripken): The creator of [emscripten](https://github.com/kripken/emscripten), the LLVM to Javascript compiler.
+- [Alon Zakai](https://github.com/kripken): The creator of [emscripten](https://github.com/kripken/emscripten), the LLVM to JavaScript compiler.
 
 ## Computer Graphics
 - [Alvy Ray Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith): He is the creator of [HSB](https://en.wikipedia.org/wiki/HSL_and_HSV), the HSV color space, which is the most common model to represent RGB colors.
@@ -375,9 +376,9 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The author of several of the most important programming books including [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style), [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment).
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The author of [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language), the authoritative reference of the language.
 - [Alexander Stepanov](https://en.wikipedia.org/wiki/Alexander_Stepanov): He is the author of [Elements of Programming](http://www.elementsofprogramming.com/)
-- [Jeffrey Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman): He helped write several popular textbooks ranging from compilers, computational theory, data structures and databases including "the Dragon Book" and "the Cinderella Book".
-- [Alfred Aho](https://en.wikipedia.org/wiki/Alfred_Aho): He helped write several textbooks covering compilers and algorithms including industry classics like "the Dragon Book", and the Principles of Compiler Design.
-- [John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft): The co-author of the influential books [Introduction to Automata Theory, Languages, and Computation](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation) also known as the "Cinderella Book", "Data Structures and Algorithms" and "The Design and Analysis of Computer Algorithms".
+- [Jeffrey Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman): He helped write several popular textbooks ranging from compilers, computational theory, data structures and databases including [the Dragon Book](https://en.wikipedia.org/wiki/Principles_of_Compiler_Design) and [the Cinderella Book](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation).
+- [Alfred Aho](https://en.wikipedia.org/wiki/Alfred_Aho): He helped write several textbooks covering compilers and algorithms including industry classics like [the Dragon Book](https://en.wikipedia.org/wiki/Principles_of_Compiler_Design), and the Principles of Compiler Design.
+- [John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft): The co-author of the influential books [Introduction to Automata Theory, Languages, and Computation](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation) also known as [the Cinderella Book](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation), "Data Structures and Algorithms" and "The Design and Analysis of Computer Algorithms".
 - [Steve McConnell](https://en.wikipedia.org/wiki/Steve_McConnell): The author of popular software development book [Code Complete](https://en.wikipedia.org/wiki/Code_Complete).
 - [Fred Brooks](http://amturing.acm.org/award_winners/brooks_1002187.cfm): The author of the classic text [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) where [Brook's law](https://en.wikipedia.org/wiki/Brooks%E2%80%99_law) was first coined.
 - [Erich Gamma](https://en.wikipedia.org/wiki/Erich_Gamma): The "gang of four" co-author of influential book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns).
