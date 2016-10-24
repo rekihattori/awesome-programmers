@@ -1,4 +1,4 @@
-# Awesome Programmers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Build Status](https://travis-ci.org/rekihattori/awesome-programmers.svg?branch=master)](https://travis-ci.org/rekihattori/awesome-programmers)
+﻿# Awesome Programmers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Build Status](https://travis-ci.org/rekihattori/awesome-programmers.svg?branch=master)](https://travis-ci.org/rekihattori/awesome-programmers)
 
 A collection of software engineers that deserve to be in this collection. They are the most awesome programmers in history. Lets give them some respect.
 
@@ -260,6 +260,8 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Lars Bak](https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)): The creator of the [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language)) programming language that transcompiles into JavaScript.
 - [Jeff Bezanson](https://en.wikipedia.org/wiki/Jeff_Bezanson): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
 - [Stefan Karpinski](https://en.wikipedia.org/wiki/Stefan_Karpinski): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
+- [Viral B. Shah](https://github.com/ViralBShah): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
+- [Alan Edelman](https://en.wikipedia.org/wiki/Alan_Edelman): The co-creator of the [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)) dynamic programming language designed for high performance scientific computing.
 - [Ary Borenszweig](https://github.com/asterite): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
 - [Juan Wajnerman](https://github.com/waj): The co-creator of the statically type, object oriented programming language [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language)) inspired by Ruby's syntax and C's compilation.
 - [Andrey Breslav](https://github.com/abreslav): The co-creator of the JVM run, statically typed programming language [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)).
