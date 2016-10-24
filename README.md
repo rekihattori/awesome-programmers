@@ -189,6 +189,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Ian Murdock](https://en.wikipedia.org/wiki/Ian_Murdock): The creator of one of the most popular Linux operating system distribution [Debian](https://en.wikipedia.org/wiki/Debian).
 - [Douglas McIlroy](https://en.wikipedia.org/wiki/Douglas_McIlroy): The creator of Unix / Linux feature [Pipeline](https://en.wikipedia.org/wiki/Pipeline_(Unix)) that chains a sequence of process together with a pipe character, the creator of Unix based data comparison tool [diff utility](https://en.wikipedia.org/wiki/Diff_utility), and the creator of the Unix based listing command [sort](https://en.wikipedia.org/wiki/Diff_utility).
 - [Russ Cox](https://github.com/rsc): The core developer of the [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) operating system, and the core developer of the [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) programming language.
+- [Theo de Raadt](https://en.wikipedia.org/wiki/Theo_de_Raadt): The creator of [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD), focused on portability, standardization, correctness, proactive security and integrated cryptography.
 
 ### Development Frameworks
 - [Rod Johnson](https://en.wikipedia.org/wiki/Rod_Johnson_(programmer)): The creator of the popular web application development framework for Java [Spring](https://en.wikipedia.org/wiki/Spring_Framework).
