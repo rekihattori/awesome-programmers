@@ -210,6 +210,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Taylor Otwell](https://github.com/taylorotwell): The creator of the PHP web application framework [Laravel](https://en.wikipedia.org/wiki/Laravel).
 - [Yehuda Katz](https://github.com/wycats): The co-creator of the JavaScript application development framework [Ember.js](https://en.wikipedia.org/wiki/Ember.js), the creator of JavaScript templating tool [handlebars](http://handlebarsjs.com/), the co-creator of package management system for ruby [bundler](https://github.com/bundler/bundler), and once a member of core development teams for "jQuery" and "Ruby on Rails".
 - [Fabien Potencier](https://github.com/fabpot): The creator of the PHP web application framework [Symfony](https://en.wikipedia.org/wiki/Symfony).
+- [Evan You](http://evanyou.me/): The creator of [vue.js](https://vuejs.org/), a JavaScript library for creating web interfaces.
 
 ## Programming Languages
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The creator of the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming language, one of the most influential languages of all time.
