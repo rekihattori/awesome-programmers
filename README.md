@@ -361,6 +361,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson): The creator of the [two-phase commit protocol](https://en.wikipedia.org/wiki/Two-phase_commit_protocol) which coordinates the processes in a distributed atomic transaction on whether to commit or rollback the transaction.
 - [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike): The co-designer of the character encoding standard [UTF-8](https://en.wikipedia.org/wiki/UTF-8), capable of encoding all possible characters and is the most widely used encoding for HTML files.
 - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): The co-designer of the character encoding standard [UTF-8](https://en.wikipedia.org/wiki/UTF-8), capable of encoding all possible characters and is the most widely used encoding for HTML files.
+- [Bram Cohen](https://en.wikipedia.org/wiki/Bram_Cohen): The author of the peer-to-peer BitTorrent protocol, and the first BitTorrent program.
 
 ## Development Processes
 - [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck): The co-creator of software development methodology [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming) to improve overall software quality, the co-founder of the "Agile Manifesto" and the agile software development paradigm, and credited to be the founder of [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
