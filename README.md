@@ -21,7 +21,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [**Protocols / Standards**](#protocols--standards)
 - [**Development Processes**](#development-processes)
 - [**Analysis / Verification**](#analysis--verification)
-- [**Books**](#books)
+- [**Books / Papers**](#books--papers)
 - [**Miscellaneous**](#miscellaneous)
 - [**Hardware**](#hardware)
 
@@ -382,7 +382,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [E. Allen Emerson](http://amturing.acm.org/award_winners/emerson_1671460.cfm): The co-creator of the field for [Model-checking](https://en.wikipedia.org/wiki/Model_checking) that introduced a machine executed system of [temporal logic](https://en.wikipedia.org/wiki/Temporal_logic) to verify the computer program's correctness.
 - [Joseph Sifakis](http://amturing.acm.org/award_winners/sifakis_1701095.cfm): The co-creator of the field for [Model-checking](https://en.wikipedia.org/wiki/Model_checking) that introduced a machine executed system of [temporal logic](https://en.wikipedia.org/wiki/Temporal_logic) to verify the computer program's correctness.
 
-## Books
+## Books / Papers
 - [Donald E. Knuth](https://en.wikipedia.org/wiki/Donald_Knuth): He is the author of the multi-volume work [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), often considered the bible of all fundamental algorithms.
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan): The author of several of the most important programming books including [The Elements of Programming Style](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style), [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment).
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): The author of [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language), the authoritative reference of the language.
@@ -405,7 +405,8 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)): The co-author of software development book [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), the co-author of many books in the "Pragmatic Bookshelf" series, and the co-author of "Programming Ruby".
 - [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin): The author software development technique book "Clean Code: A Handbook of Agile Software Craftsmanship".
 - [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers): The author of book series "Effective C++".
-- [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler): The co-author of book that popularized agile software development "Refactoring: Improving the Design of Existing Code"
+- [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler): The co-author along with Kent Beck of the book that popularized agile software development "Refactoring: Improving the Design of Existing Code" and co-author of the "Manifesto for Agile Software Development".
+- [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck): The co-author of the "Manifesto for Agile Software Development" and "Extreme Programming Explained"
 - [Glenford J. Myers](https://en.wikipedia.org/wiki/Glenford_Myers): The author of several computer science textbooks including "The Art of Software Testing", "Software reliability" and "Composite/structured design".
 
 ## Miscellaneous
