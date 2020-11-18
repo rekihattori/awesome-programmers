@@ -23,6 +23,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [**Analysis / Verification**](#analysis--verification)
 - [**Books**](#books)
 - [**Miscellaneous**](#miscellaneous)
+- [**Hardware**](#hardware)
 
 ## Databases
 - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd): The inventor of the [relational model](https://en.wikipedia.org/wiki/Relational_model) for database management, the theoretical basis for RDMS and co-creator of System R, the first implementation of the [SQL](https://en.wikipedia.org/wiki/SQL) database query language.
@@ -405,6 +406,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin): The author software development technique book "Clean Code: A Handbook of Agile Software Craftsmanship".
 - [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers): The author of book series "Effective C++".
 - [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler): The co-author of book that popularized agile software development "Refactoring: Improving the Design of Existing Code"
+- [Glenford J. Myers](https://en.wikipedia.org/wiki/Glenford_Myers): The author of several computer science textbooks including "The Art of Software Testing", "Software reliability" and "Composite/structured design".
 
 ## Miscellaneous
 - [Richard Matthew Stallman](https://en.wikipedia.org/wiki/Richard_Stallman): The creator of the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project) for the collection and development of free software through the use of its friendly [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License)
@@ -415,3 +417,5 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Petr Mitrichev](https://en.wikipedia.org/wiki/Petr_Mitrichev): The winner of multiple [TopCoder](https://en.wikipedia.org/wiki/TopCoder) competitions, took 100 wins in a single round of TopCoder, winner of Russian Code Cup, winner of Facebook Hacker Cup, winner of Yandex algorithm competition, and winner of [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam).
 - [Gennady Korotkevich](https://en.wikipedia.org/wiki/Gennady_Korotkevich): The six time gold medalist for the [International Olympiad in Informatics](https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics) programming competition, on the winning team for several years in [ACM International Collegiate Programming Contest](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), multiple medal winner in the [CodeForces](https://en.wikipedia.org/wiki/Codeforces) contests, and winner of Google Code Jam for several consecutive years.
 
+## Hardware
+- [Glenford J. Myers](https://en.wikipedia.org/wiki/Glenford_Myers): The author of the original patent for register scoreboarding on a microprocessor chip
