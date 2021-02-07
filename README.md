@@ -274,6 +274,7 @@ Undoubtedly, there are some great candidates that I've overlooked.  If you see a
 - [Slava Pestov](https://github.com/slavapestov): The creator of [stack-oriented](https://en.wikipedia.org/wiki/Stack-oriented_programming_language) programming language [Factor](https://en.wikipedia.org/wiki/Factor_(programming_language)) and a member of the core team for [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)).
 - [Arthur Whitney](https://en.wikipedia.org/wiki/Arthur_Whitney_(computer_scientist)): The creator of the programming language [A+](https://en.wikipedia.org/wiki/A%2B_(programming_language)) and the creator of the programming language [K](https://en.wikipedia.org/wiki/K_(programming_language)).
 - [John Ousterhout](https://en.wikipedia.org/wiki/John_Ousterhout): The creator of the programming language [Tcl](https://en.wikipedia.org/wiki/Tcl).
+- [Andreas Rumpf](http://www.oreilly.com/pub/au/6501): The creator of the programming language [Nim](http://nim-lang.org/).
 
 ### Theory
 - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra): Led the [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming) movement helping set standards for quality software development and eliminating harmful practices like the [GOTO](https://en.wikipedia.org/wiki/Goto) statement. He also introduced the concepts of "recursion" and "stack" with the creation of ALGOL 60 compiler.
